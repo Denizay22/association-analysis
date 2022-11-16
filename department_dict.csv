@@ -1,0 +1,50 @@
+department_code, department_name
+BTO,Bilgisayar ve Öğretim Teknolojileri
+PDR,Rehberlik ve Psikolojik Danışmanlık
+FBO,Fen Bilgisi Eğitimi
+IMO,İlköğretim Matematik Öğretimi
+OKL,Okulöncesi Eğitimi
+SNF,Sınıf Öğretmenliği
+SBO,Sosyal Bilgiler Eğitimi
+TRO,Türkçe Eğitimi
+ING,İngilizce Öğretmenliği
+BLM,Bilgisayar Mühendisliği
+BME,Biyomedikal Mühendisliği
+ELM,Elektrik Mühendisliği
+EHM,Elektronik ve Haberleşme Mühendisliği
+KOM,Kontrol Otomasyon Mühendisliği
+MTF,Fransızca Mütercim Tercümanlık
+FIZ,Fizik
+IST,İstatistik
+KIM,Kimya
+MAT,Matematik
+MBG,Moleküler Biyoloji
+TDE,Türk Dili ve Edebiyatı
+GIM,Gemi İnşaatı ve Gemi Makineleri Mühendisliği
+GMI,Gemi Makineleri İşletme Mühendisliği
+IKT,İktisat
+ISL,İşletme
+SBU,Siyaset Bilimi ve Uluslararası İlişkiler
+CEV,Çevre Mühendisliği
+HRT,Harita Mühendisliği
+INS,İnşaat Mühendisliği
+BYM,Biyomühendislik
+GDM,Gıda Mühendisliği
+KMM,Kimya Mühendisliği
+MTM,Matematik Mühendisliği
+MSE,Metalürji ve Malzeme Mühendisliği
+END,Endüstri Mühendisliği
+MAK,Makine Mühendisliği
+MKT,Mekatronik Mühendisliği
+KVK,Kültür Varlıklarını Koruma ve Onarım
+MIM,Mimarlık
+SBP,Şehir ve Bölge Planlama
+ILT,İletişim ve Tasarımı
+MTP,Müzik Toplulukları
+DTP,Ses Sanatları Tasarımı
+DNS,Dans
+BSP,Bileşik Sanatlar
+SYP,Sanat ve Kültür Yönetimi
+FVP,Fotoğraf ve Video
+GRA,Grafik Tasarımı
+EUT,Endüstri Ürünleri Tasarımı
