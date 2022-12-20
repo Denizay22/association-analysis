@@ -1,4 +1,252 @@
 std_no,department_no,class_code,class_name,period
+08011013,011,BLM3120,Bilgiye Erişim Ve Arama Motorları,GÜZ DÖNEMİ
+09011033,011,BLM3120,Bilgiye Erişim Ve Arama Motorları,GÜZ DÖNEMİ
+08011057,011,BLM3580,Sistem Programlama,GÜZ DÖNEMİ
+08011060,011,BLM3590,İstatistiksel Veri Analizi,GÜZ DÖNEMİ
+09011033,011,BLM3720,Bilgisayar Grafiğine Giriş,GÜZ DÖNEMİ
+05011034,011,BLM3760,Uzman Sistemlere Giriş,GÜZ DÖNEMİ
+08011080,011,BLM4540,Görüntü İşleme,GÜZ DÖNEMİ
+09011033,011,BLM4580,Doğal Dil İşlemeye Giriş,GÜZ DÖNEMİ
+05011705,011,BLM4710,Yönetim Bilgi Sistemleri,GÜZ DÖNEMİ
+08011013,011,BLM4710,Yönetim Bilgi Sistemleri,GÜZ DÖNEMİ
+08011057,011,BLM4710,Yönetim Bilgi Sistemleri,GÜZ DÖNEMİ
+08011080,011,BLM4710,Yönetim Bilgi Sistemleri,GÜZ DÖNEMİ
+09011079,011,BLM4710,Yönetim Bilgi Sistemleri,GÜZ DÖNEMİ
+08011057,011,BLM4770,Yazılım Kalite ve Test Süreci,GÜZ DÖNEMİ
+09011033,011,BLM4800,Veri Madenciliğine Giriş,GÜZ DÖNEMİ
+08083005,083,DTP1591,Müzik Teknolojisine Giriş,GÜZ DÖNEMİ
+08083005,083,DTP2671,Ses Programlama,GÜZ DÖNEMİ
+08083005,083,DTP2931,Tarihsel Müzikoloji,GÜZ DÖNEMİ
+03083017,083,DTP4652,Müzik Fiziği,GÜZ DÖNEMİ
+03083017,083,DTP4741,Çalgı Bilgisi Ve Orkestrasyon,GÜZ DÖNEMİ
+08083005,083,DTP4841,Türk Müziği Usulleri 1,GÜZ DÖNEMİ
+07014109,014,EHM4210,Algılayıcılar Ve Dönüştürücüler,GÜZ DÖNEMİ
+07014086,014,EHM4300,Fiber Optiğe Giriş,GÜZ DÖNEMİ
+07014109,014,EHM4330,Optik Haberleşme Sistemleri,GÜZ DÖNEMİ
+07014086,014,EHM4340,Analog Tümdevreler,GÜZ DÖNEMİ
+08014026,014,EHM4340,Analog Tümdevreler,GÜZ DÖNEMİ
+07014109,014,EHM4840,Görüntü İşleme,GÜZ DÖNEMİ
+08014026,014,EHM4840,Görüntü İşleme,GÜZ DÖNEMİ
+06014037,014,EHM4880,Elektronik Savunma Sistemlerine Giriş,GÜZ DÖNEMİ
+07014109,014,EHM4880,Elektronik Savunma Sistemlerine Giriş,GÜZ DÖNEMİ
+08014026,014,EHM4880,Elektronik Savunma Sistemlerine Giriş,GÜZ DÖNEMİ
+08012902,012,ELM4045,Güç Sistemlerinin Optimizasyonu,GÜZ DÖNEMİ
+07022076,022,FIZ4450,Süperiletkenliğe Giriş,GÜZ DÖNEMİ
+07022076,022,FIZ4470,Biyofizik,GÜZ DÖNEMİ
+07022076,022,FIZ4590,Sağlık Fiziği,GÜZ DÖNEMİ
+08022088,022,FIZ4590,Sağlık Fiziği,GÜZ DÖNEMİ
+07022076,022,FIZ4640,Temel Tanecikler,GÜZ DÖNEMİ
+07022076,022,FIZ4690,Katıhal Fiziği 2,GÜZ DÖNEMİ
+08084013,084,FVP2441,Analog Fotoğraf,GÜZ DÖNEMİ
+08084013,084,FVP3701,Fotoğraf Ve Sanat,GÜZ DÖNEMİ
+08084013,084,FVP4411,Foto- Grafik Tasarım,GÜZ DÖNEMİ
+09046030,046,HRT4171,Koordinat Sistemleri,GÜZ DÖNEMİ
+09046050,046,HRT4171,Koordinat Sistemleri,GÜZ DÖNEMİ
+09046031,046,HRT4361,Madencilik Ölçmeleri,GÜZ DÖNEMİ
+05042017,042,INS2931,İstatistik,GÜZ DÖNEMİ
+06042097,042,INS2942,Sayısal Analiz,GÜZ DÖNEMİ
+03042176,042,INS3122,Toprak Dolgular Ve Derin Kazılar,GÜZ DÖNEMİ
+03042176,042,INS3222,Kıyı Hidroliğine Giriş,GÜZ DÖNEMİ
+06042030,042,INS3222,Kıyı Hidroliğine Giriş,GÜZ DÖNEMİ
+06042030,042,INS3712,İleri Beton Teknolojisi,GÜZ DÖNEMİ
+05042169,042,INS4112,Geoteknik Deprem Mühendisliği,GÜZ DÖNEMİ
+09042008,042,INS4232,Barajlar,GÜZ DÖNEMİ
+09042008,042,INS4251,Sulama- Kurutma,GÜZ DÖNEMİ
+08042070,042,INS4272,Drenaj Tekniği,GÜZ DÖNEMİ
+05042169,042,INS4421,Karayolu Üstyapıları,GÜZ DÖNEMİ
+08042070,042,INS4491,Trafik Mühendisliği,GÜZ DÖNEMİ
+08042070,042,INS4582,Betonarme 3,GÜZ DÖNEMİ
+06042020,042,INS4721,Binalarda Isı Yalıtımı Tasarımı,GÜZ DÖNEMİ
+09042059,042,INS4721,Binalarda Isı Yalıtımı Tasarımı,GÜZ DÖNEMİ
+03042248,042,INS4741,Betonun Dayanıklılığı,GÜZ DÖNEMİ
+09042059,042,INS4741,Betonun Dayanıklılığı,GÜZ DÖNEMİ
+06042030,042,INS4812,İnşaat Makineleri,GÜZ DÖNEMİ
+09042059,042,INS4812,İnşaat Makineleri,GÜZ DÖNEMİ
+09042905,042,INS4812,İnşaat Makineleri,GÜZ DÖNEMİ
+09023039,023,IST3130,Karar Teorisi,GÜZ DÖNEMİ
+09023057,023,IST3230,Planlama Teknikleri,GÜZ DÖNEMİ
+09024089,024,KIM2061,"Kimyasallar, Tehlikeleri Ve Korunma Yolları",GÜZ DÖNEMİ
+08065162,065,MAK3081,Analitik Mekanik,GÜZ DÖNEMİ
+09065205,065,MAK3081,Analitik Mekanik,GÜZ DÖNEMİ
+09065106,065,MAK3141,Enerji Ekonomisi 1,GÜZ DÖNEMİ
+09065205,065,MAK3151,Enerji Sistemlerinde Optimizasyon,GÜZ DÖNEMİ
+09065106,065,MAK3181,Sıhhi Tesisat,GÜZ DÖNEMİ
+09065205,065,MAK4071,Mekanizma Tekniği 1,GÜZ DÖNEMİ
+09065106,065,MAK4521,Raylı Sistemler,GÜZ DÖNEMİ
+09065106,065,MAK4561,Plastik Malzemeler Ve Şekillendirilmesi,GÜZ DÖNEMİ
+07065183,065,MAK4591,Akıllı Binalarda Mekanik Tesisat Ve Elemanları,GÜZ DÖNEMİ
+09065106,065,MAK4591,Akıllı Binalarda Mekanik Tesisat Ve Elemanları,GÜZ DÖNEMİ
+05065801,065,MAK4651,Kütle Transferi,GÜZ DÖNEMİ
+06065081,065,MAK4681,Kalıp İmal Tekniği,GÜZ DÖNEMİ
+08065224,065,MAK4901,Buhar Kazanları,GÜZ DÖNEMİ
+09065106,065,MAK4901,Buhar Kazanları,GÜZ DÖNEMİ
+08071103,071,MIM2421,Mimarlık Tarihi,GÜZ DÖNEMİ
+09071041,071,MIM3121,Suluboya Tekniği,GÜZ DÖNEMİ
+03071034,071,MIM3122,Mimarlıkta Peyzaj Tasarımı,GÜZ DÖNEMİ
+06071048,071,MIM3122,Mimarlıkta Peyzaj Tasarımı,GÜZ DÖNEMİ
+06071048,071,MIM3242,Günışığı,GÜZ DÖNEMİ
+09071041,071,MIM3322,Türk Evi Ve Koruması,GÜZ DÖNEMİ
+01071116,071,MIM3331,Mimar Sinan Ve Dönemi,GÜZ DÖNEMİ
+06071048,071,MIM3332,1970 Sonrası Dünya Mimarlığı,GÜZ DÖNEMİ
+03071169,071,MIM4012,Mimari Tasarım 7,GÜZ DÖNEMİ
+03071197,071,MIM4012,Mimari Tasarım 7,GÜZ DÖNEMİ
+04071002,071,MIM4012,Mimari Tasarım 7,GÜZ DÖNEMİ
+06071705,071,MIM4012,Mimari Tasarım 7,GÜZ DÖNEMİ
+07071041,071,MIM4012,Mimari Tasarım 7,GÜZ DÖNEMİ
+07071901,071,MIM4012,Mimari Tasarım 7,GÜZ DÖNEMİ
+08071122,071,MIM4012,Mimari Tasarım 7,GÜZ DÖNEMİ
+07071701,071,MIM4012,Mimari Tasarım 7,GÜZ DÖNEMİ
+09071021,071,MIM4012,Mimari Tasarım 7,GÜZ DÖNEMİ
+08071121,071,MIM4012,Mimari Tasarım 7,GÜZ DÖNEMİ
+09071041,071,MIM4012,Mimari Tasarım 7,GÜZ DÖNEMİ
+03071197,071,MIM4012,Mimari Tasarım 7,GÜZ DÖNEMİ
+06071705,071,MIM4012,Mimari Tasarım 7,GÜZ DÖNEMİ
+08071121,071,MIM4012,Mimari Tasarım 7,GÜZ DÖNEMİ
+03071034,071,MIM4511,Ortadoğu Ülkelerinde İslam Mimarlığı,GÜZ DÖNEMİ
+06071048,071,MIM4511,Ortadoğu Ülkelerinde İslam Mimarlığı,GÜZ DÖNEMİ
+09067012,067,MKT3861,İmalat Yöntemleri,GÜZ DÖNEMİ
+09067035,067,MKT3861,İmalat Yöntemleri,GÜZ DÖNEMİ
+09067012,067,MKT4822,Mekatronik Mühendisliğinde Özel Konular,GÜZ DÖNEMİ
+09067012,067,MKT4829,Havacılığın Temelleri,GÜZ DÖNEMİ
+09067012,067,MKT4833,Mekanik Titreşimler,GÜZ DÖNEMİ
+07052030,052,MTM3531,Özel Fonksiyonlar,GÜZ DÖNEMİ
+06052002,052,MTM3551,İntegral Dönüşümler,GÜZ DÖNEMİ
+07052030,052,MTM3591,Bulanık Mantık,GÜZ DÖNEMİ
+09052049,052,MTM3611,Matematik Tarihi,GÜZ DÖNEMİ
+09052060,052,MTM3611,Matematik Tarihi,GÜZ DÖNEMİ
+06052002,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
+09052049,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
+09052060,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
+06052002,052,MTM4641,Veri Madenciliğine Giriş,GÜZ DÖNEMİ
+09052028,052,MTM4681,Mobil Programlama,GÜZ DÖNEMİ
+07034601,034,SBU2551,Ortadoğuda Toplumsal Ve Siyasal Konular,GÜZ DÖNEMİ
+09034042,034,SBU2551,Ortadoğuda Toplumsal Ve Siyasal Konular,GÜZ DÖNEMİ
+03034060,034,SBU2652,Amerikan Dış Politikası,GÜZ DÖNEMİ
+09034012,034,SBU3122,Medya Ve Politika,GÜZ DÖNEMİ
+04034007,034,SBU3126,Siyasal İletişim Ve Lobicilik,GÜZ DÖNEMİ
+09034012,034,SBU3126,Siyasal İletişim Ve Lobicilik,GÜZ DÖNEMİ
+08034053,034,SBU3502,Toplumsal Duyarlılık Projesi 1,GÜZ DÖNEMİ
+09034012,034,SBU3502,Toplumsal Duyarlılık Projesi 1,GÜZ DÖNEMİ
+09034042,034,SBU4611,Balkanlarda Uluslaşma Hareketleri Ve Türkiye,GÜZ DÖNEMİ
+05011705,011,BLM3520,Mobil Programlamaya Giriş,BAHAR DÖNEMİ
+08011080,011,BLM3520,Mobil Programlamaya Giriş,BAHAR DÖNEMİ
+05011034,011,BLM3620,Sayısal İşaret İşleme,BAHAR DÖNEMİ
+08011013,011,BLM3620,Sayısal İşaret İşleme,BAHAR DÖNEMİ
+08011057,011,BLM3620,Sayısal İşaret İşleme,BAHAR DÖNEMİ
+08011060,011,BLM3620,Sayısal İşaret İşleme,BAHAR DÖNEMİ
+09011033,011,BLM3780,Veritabanı Sistemlerinin Gerçekleştirilmesi,BAHAR DÖNEMİ
+05011034,011,BLM4120,Büyük Veri İşleme Ve Analizi,BAHAR DÖNEMİ
+08011060,011,BLM4590,Ayrık Olay Simulasyonu,BAHAR DÖNEMİ
+05011034,011,BLM4800,Veri Madenciliğine Giriş,BAHAR DÖNEMİ
+08011013,011,BLM4830,Robot Teknolojisine Giriş,BAHAR DÖNEMİ
+09011033,011,BLM4900,İleri Ağ Programlama,BAHAR DÖNEMİ
+03083017,083,BSP4332,Felsefe Ve Sanat,BAHAR DÖNEMİ
+03083017,083,DTP1552,Temel Kompozisyon Teknikleri,BAHAR DÖNEMİ
+08083005,083,DTP2542,Alan Araştırmasında Yöntem,BAHAR DÖNEMİ
+07014086,014,EHM4350,Sayısal Elektronik Devreleri,BAHAR DÖNEMİ
+08014026,014,EHM4350,Sayısal Elektronik Devreleri,BAHAR DÖNEMİ
+07014086,014,EHM4850,Haberleşme Teorisi,BAHAR DÖNEMİ
+07014086,014,EHM4880,Elektronik Savunma Sistemlerine Giriş,BAHAR DÖNEMİ
+08012902,012,ELM2020,Malzeme,BAHAR DÖNEMİ
+08022088,022,FIZ3370,Maddenin Yapısına Giriş,BAHAR DÖNEMİ
+08022064,022,FIZ4550,X-ışınları,BAHAR DÖNEMİ
+07022076,022,FIZ4570,Nükleer Veri Toplanması Ve Değerlendirilmesi,BAHAR DÖNEMİ
+07022076,022,FIZ4590,Sağlık Fiziği,BAHAR DÖNEMİ
+08022088,022,FIZ4590,Sağlık Fiziği,BAHAR DÖNEMİ
+07022076,022,FIZ4620,Fotonik,BAHAR DÖNEMİ
+08022064,022,FIZ4690,Katıhal Fiziği 2,BAHAR DÖNEMİ
+04022058,022,FIZ4702,Atom Ve Molekül Fiziği Lab.,BAHAR DÖNEMİ
+07022076,022,FIZ4702,Atom Ve Molekül Fiziği Lab.,BAHAR DÖNEMİ
+08022064,022,FIZ4702,Atom Ve Molekül Fiziği Lab.,BAHAR DÖNEMİ
+07022076,022,FIZ4820,Çekirdek Fiziği 2,BAHAR DÖNEMİ
+08084013,084,FVP3711,Deneysel Fotoğraf,BAHAR DÖNEMİ
+08084013,084,FVP4442,Moda Fotografı,BAHAR DÖNEMİ
+08084013,084,FVP4451,Fotoğraf Kuramı,BAHAR DÖNEMİ
+08084013,084,FVP4461,Güncel Fotoğraf Pratiği,BAHAR DÖNEMİ
+09046030,046,HRT4171,Koordinat Sistemleri,BAHAR DÖNEMİ
+09046050,046,HRT4642,Taşınmaz Geliştirme Uygulaması,BAHAR DÖNEMİ
+07031090,031,IKT3650,Sürdürülebilir Kalkınma,BAHAR DÖNEMİ
+07031090,031,IKT3720,Sosyal Tarih,BAHAR DÖNEMİ
+09085001,085,ILT4702,Deneysel Tipografi,BAHAR DÖNEMİ
+06042030,042,INS3222,Kıyı Hidroliğine Giriş,BAHAR DÖNEMİ
+06042107,042,INS3222,Kıyı Hidroliğine Giriş,BAHAR DÖNEMİ
+06042030,042,INS3712,İleri Beton Teknolojisi,BAHAR DÖNEMİ
+05042169,042,INS4112,Geoteknik Deprem Mühendisliği,BAHAR DÖNEMİ
+08042070,042,INS4112,Geoteknik Deprem Mühendisliği,BAHAR DÖNEMİ
+09042008,042,INS4112,Geoteknik Deprem Mühendisliği,BAHAR DÖNEMİ
+09042059,042,INS4112,Geoteknik Deprem Mühendisliği,BAHAR DÖNEMİ
+09042008,042,INS4121,Çevre Geotekniği,BAHAR DÖNEMİ
+09042059,042,INS4121,Çevre Geotekniği,BAHAR DÖNEMİ
+09042008,042,INS4291,Su Yapıları Tasarımı,BAHAR DÖNEMİ
+03042248,042,INS4421,Karayolu Üstyapıları,BAHAR DÖNEMİ
+05042169,042,INS4421,Karayolu Üstyapıları,BAHAR DÖNEMİ
+09042059,042,INS4571,Yapı Mühendisliğinde Bilgisayar Uygulamaları,BAHAR DÖNEMİ
+09042059,042,INS4672,Toplu Taşıma Aktarma Merkezi Tasarımı,BAHAR DÖNEMİ
+08042070,042,INS4672,Toplu Taşıma Aktarma Merkezi Tasarımı,BAHAR DÖNEMİ
+08042070,042,INS4672,Toplu Taşıma Aktarma Merkezi Tasarımı Ortak Grup Türkçe,BAHAR DÖNEMİ
+09042059,042,INS4672,Toplu Taşıma Aktarma Merkezi Tasarımı Ortak Grup Türkçe,BAHAR DÖNEMİ
+06042030,042,INS4711,Yapılarda Su Yalıtımı,BAHAR DÖNEMİ
+06042030,042,INS4812,İnşaat Makineleri,BAHAR DÖNEMİ
+09042059,042,INS4812,İnşaat Makineleri,BAHAR DÖNEMİ
+09046080,046,ISL1611,İşletme Bilimine Giriş,BAHAR DÖNEMİ
+07031084,031,ISL2132,Maliyet Muhasebesi,BAHAR DÖNEMİ
+09033082,033,ISL3450,Sosyal Medya Pazarlama,BAHAR DÖNEMİ
+08033065,033,ISL4250,Sermaye Piyasası ve Analizleri,BAHAR DÖNEMİ
+09023701,023,IST1172,Bilimsel Düşünme Ve İstatistik,BAHAR DÖNEMİ
+06023032,023,IST2082,Biyoistatistik,BAHAR DÖNEMİ
+06023032,023,IST3050,Anket Düzenleme,BAHAR DÖNEMİ
+09023057,023,IST3082,İstatistikte Parametre Tahmini Ve Hipotez Testi,BAHAR DÖNEMİ
+06023032,023,IST3152,İstatistik Paket Programları Kullanımı,BAHAR DÖNEMİ
+07023036,023,IST4322,Uygulamalı Panel Veri Analizi,BAHAR DÖNEMİ
+07023036,023,IST4412,Veri Madenciliğine Giriş,BAHAR DÖNEMİ
+09023057,023,IST4512,Robust Tahmin Yöntemleri Ve R Uygulamaları,BAHAR DÖNEMİ
+09065205,065,MAK3272,Klima 1,BAHAR DÖNEMİ
+07065112,065,MAK3372,Hidrolik Makineler,BAHAR DÖNEMİ
+09065016,065,MAK3462,Demir Esaslı Metallerin Gravite Dökümü,BAHAR DÖNEMİ
+07065112,065,MAK3502,İmalatta Kalite,BAHAR DÖNEMİ
+09065205,065,MAK3502,İmalatta Kalite,BAHAR DÖNEMİ
+05065801,065,MAK3582,Özel Kaynak Yöntemleri,BAHAR DÖNEMİ
+09065205,065,MAK3652,Mühendislikte Proje Yönetimi,BAHAR DÖNEMİ
+05065801,065,MAK4082,Endüstriyel Akustik Ve Gürültü,BAHAR DÖNEMİ
+07065112,065,MAK4082,Endüstriyel Akustik Ve Gürültü,BAHAR DÖNEMİ
+09065016,065,MAK4082,Endüstriyel Akustik Ve Gürültü,BAHAR DÖNEMİ
+07065707,065,MAK4092,Robot Mühendisliğine Giriş,BAHAR DÖNEMİ
+08065224,065,MAK4192,Enerji Yönetimi 2,BAHAR DÖNEMİ
+05065801,065,MAK4302,İklimlendirme Sistem Elemanları,BAHAR DÖNEMİ
+05065801,065,MAK4502,Konstrüksiyon Elemanları,BAHAR DÖNEMİ
+07065112,065,MAK4662,Makine Mühendisliğinde Deneysel Yöntemler,BAHAR DÖNEMİ
+09065016,065,MAK4922,Arıtma Teknolojileri,BAHAR DÖNEMİ
+07065112,065,MAK4972,Taşıt Ve Çevre,BAHAR DÖNEMİ
+06071048,071,MIM1422,Sanat Ve Mimarlık Tarihine Giriş,BAHAR DÖNEMİ
+03071034,071,MIM3122,Mimarlıkta Peyzaj Tasarımı,BAHAR DÖNEMİ
+06071048,071,MIM3142,Engelsiz Mimari,BAHAR DÖNEMİ
+03071034,071,MIM3322,Türk Evi Ve Koruması,BAHAR DÖNEMİ
+06071048,071,MIM3540,Mimarlıkta Ölçek Ve Temsil Biçimleri,BAHAR DÖNEMİ
+06071048,071,MIM3550,Mimarlıkta Kavramlarla Tasarım Düşüncesi,BAHAR DÖNEMİ
+07071701,071,MIM4012,Mimari Tasarım 7,BAHAR DÖNEMİ
+07071041,071,MIM4012,Mimari Tasarım 7,BAHAR DÖNEMİ
+03071197,071,MIM4012,Mimari Tasarım 7,BAHAR DÖNEMİ
+06071705,071,MIM4012,Mimari Tasarım 7,BAHAR DÖNEMİ
+09071041,071,MIM4012,Mimari Tasarım 7,BAHAR DÖNEMİ
+03071169,071,MIM4012,Mimari Tasarım 7,BAHAR DÖNEMİ
+03071197,071,MIM4012,Mimari Tasarım 7,BAHAR DÖNEMİ
+03071034,071,MIM4161,Konut Ve Kültürel Süreklilik,BAHAR DÖNEMİ
+06052002,052,MTM3562,Adi Diferansiyel Denklemlerin Nümerik Çözümleri,BAHAR DÖNEMİ
+09052034,052,MTM3562,Adi Diferansiyel Denklemlerin Nümerik Çözümleri,BAHAR DÖNEMİ
+09052049,052,MTM3642,Mvc Tasarım Deseni İle İnternet Programlama,BAHAR DÖNEMİ
+09052060,052,MTM3642,Mvc Tasarım Deseni İle İnternet Programlama,BAHAR DÖNEMİ
+07052030,052,MTM4522,Fonksiyonel Analize Giriş,BAHAR DÖNEMİ
+09052060,052,MTM4562,Mesleki Terminoloji,BAHAR DÖNEMİ
+09052049,052,MTM4592,Bilişim Etiği,BAHAR DÖNEMİ
+09052060,052,MTM4592,Bilişim Etiği,BAHAR DÖNEMİ
+09052060,052,MTM4692,Uygulamalı Sql,BAHAR DÖNEMİ
+03083017,083,MTP4252,Halk Müziği Bilgileri 2,BAHAR DÖNEMİ
+04034007,034,SBU2572,Sanat Ve Siyaset,BAHAR DÖNEMİ
+08034053,034,SBU2572,Sanat Ve Siyaset,BAHAR DÖNEMİ
+08034053,034,SBU3124,Propaganda Ve Sosyal Medya,BAHAR DÖNEMİ
+08034053,034,SBU4101,Avrupa Birliği Ve Türkiye,BAHAR DÖNEMİ
+03083017,083,SYP1422,Sanatçı Hakları,BAHAR DÖNEMİ
+05087007,087,SYP4492,Müze Mevzuatı,BAHAR DÖNEMİ
 12011001,011,BLM3120,Bilgiye Erişim Ve Arama Motorları,GÜZ DÖNEMİ
 13011040,011,BLM3120,Bilgiye Erişim Ve Arama Motorları,GÜZ DÖNEMİ
 15011002,011,BLM3120,Bilgiye Erişim Ve Arama Motorları,GÜZ DÖNEMİ
@@ -12005,267 +12253,6 @@ std_no,department_no,class_code,class_name,period
 18022013,022,MAT1320,Lineer Cebir Türkçe Grupları Ortak Sınav,GÜZ DÖNEMİ
 18031008,031,MAT1811,Lineer Cebir 1,GÜZ DÖNEMİ
 18031010,031,MAT1811,Lineer Cebir 1,GÜZ DÖNEMİ
-17025005,025,MAT3220,Kodlama Teorisine Giriş,GÜZ DÖNEMİ
-17025020,025,MAT3220,Kodlama Teorisine Giriş,GÜZ DÖNEMİ
-17025035,025,MAT3220,Kodlama Teorisine Giriş,GÜZ DÖNEMİ
-17025038,025,MAT3220,Kodlama Teorisine Giriş,GÜZ DÖNEMİ
-18025023,025,MAT3220,Kodlama Teorisine Giriş,GÜZ DÖNEMİ
-18025042,025,MAT3220,Kodlama Teorisine Giriş,GÜZ DÖNEMİ
-18025604,025,MAT3220,Kodlama Teorisine Giriş,GÜZ DÖNEMİ
-12025086,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-12025111,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-13025024,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-14025009,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-14025026,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-15025068,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025010,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025012,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025016,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025027,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025028,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025029,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025032,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025036,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025039,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025042,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025043,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025046,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025048,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025052,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025061,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025062,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025067,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-16025068,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-17025019,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-17025023,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-17025033,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-17025035,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-17025040,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-17025055,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-17025065,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-17025070,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-17025501,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-17025603,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-17025604,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-18025017,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-18025023,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-18025049,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-18025064,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-18025901,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-20025604,025,MAT3240,Yöneylem Araştırması,GÜZ DÖNEMİ
-13025024,025,MAT3260,Şifrelemeye Giriş,GÜZ DÖNEMİ
-15025036,025,MAT3260,Şifrelemeye Giriş,GÜZ DÖNEMİ
-15025039,025,MAT3260,Şifrelemeye Giriş,GÜZ DÖNEMİ
-15025058,025,MAT3260,Şifrelemeye Giriş,GÜZ DÖNEMİ
-16025010,025,MAT3260,Şifrelemeye Giriş,GÜZ DÖNEMİ
-16025015,025,MAT3260,Şifrelemeye Giriş,GÜZ DÖNEMİ
-16025018,025,MAT3260,Şifrelemeye Giriş,GÜZ DÖNEMİ
-16025028,025,MAT3260,Şifrelemeye Giriş,GÜZ DÖNEMİ
-16025062,025,MAT3260,Şifrelemeye Giriş,GÜZ DÖNEMİ
-16025603,025,MAT3260,Şifrelemeye Giriş,GÜZ DÖNEMİ
-17025604,025,MAT3260,Şifrelemeye Giriş,GÜZ DÖNEMİ
-18025051,025,MAT3260,Şifrelemeye Giriş,GÜZ DÖNEMİ
-18025057,025,MAT3260,Şifrelemeye Giriş,GÜZ DÖNEMİ
-13025902,025,MAT4350,Normlu Uzaylarda Sayısal Bölgeler,GÜZ DÖNEMİ
-15025013,025,MAT4350,Normlu Uzaylarda Sayısal Bölgeler,GÜZ DÖNEMİ
-15025022,025,MAT4350,Normlu Uzaylarda Sayısal Bölgeler,GÜZ DÖNEMİ
-15025052,025,MAT4350,Normlu Uzaylarda Sayısal Bölgeler,GÜZ DÖNEMİ
-16025012,025,MAT4350,Normlu Uzaylarda Sayısal Bölgeler,GÜZ DÖNEMİ
-16025018,025,MAT4350,Normlu Uzaylarda Sayısal Bölgeler,GÜZ DÖNEMİ
-16025028,025,MAT4350,Normlu Uzaylarda Sayısal Bölgeler,GÜZ DÖNEMİ
-16025039,025,MAT4350,Normlu Uzaylarda Sayısal Bölgeler,GÜZ DÖNEMİ
-16025052,025,MAT4350,Normlu Uzaylarda Sayısal Bölgeler,GÜZ DÖNEMİ
-16025068,025,MAT4350,Normlu Uzaylarda Sayısal Bölgeler,GÜZ DÖNEMİ
-17025604,025,MAT4350,Normlu Uzaylarda Sayısal Bölgeler,GÜZ DÖNEMİ
-11025819,025,MAT4360,Dönüşümler Ve Geometriler,GÜZ DÖNEMİ
-15025030,025,MAT4360,Dönüşümler Ve Geometriler,GÜZ DÖNEMİ
-15025036,025,MAT4360,Dönüşümler Ve Geometriler,GÜZ DÖNEMİ
-15025052,025,MAT4360,Dönüşümler Ve Geometriler,GÜZ DÖNEMİ
-15025055,025,MAT4360,Dönüşümler Ve Geometriler,GÜZ DÖNEMİ
-15025058,025,MAT4360,Dönüşümler Ve Geometriler,GÜZ DÖNEMİ
-16025015,025,MAT4360,Dönüşümler Ve Geometriler,GÜZ DÖNEMİ
-16025060,025,MAT4360,Dönüşümler Ve Geometriler,GÜZ DÖNEMİ
-13025024,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-14025009,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-15025024,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-15025039,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-15025048,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-15025055,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-15025066,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-16025012,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-16025015,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-16025018,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-16025021,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-16025025,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-16025037,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-16025050,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-16025052,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-16025060,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-16025062,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-16025064,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-16025068,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-16025071,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-16025603,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-17025014,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-17025047,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-17025604,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-18025042,025,MAT4410,Halkalar Ve Modüller,GÜZ DÖNEMİ
-11025816,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-12025095,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-12025111,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-13025024,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-13025069,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-13025083,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-13025090,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-14025026,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-14025052,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-15025009,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-15025024,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-15025036,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-15025045,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-15025048,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-15025054,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-15025055,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-15025066,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-15025068,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025006,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025010,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025012,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025016,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025018,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025019,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025025,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025027,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025036,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025037,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025039,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025040,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025045,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025046,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025050,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025052,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025056,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025059,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025060,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025061,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025062,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025063,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025064,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025065,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025067,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025068,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025070,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025071,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025072,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-16025603,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-17025006,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-17025010,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-17025014,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-17025019,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-17025033,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-17025042,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-17025604,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-18025018,025,MAT4430,Riesz Uzaylarına Giriş,GÜZ DÖNEMİ
-10025069,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-12025111,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-13025024,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-13025902,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-14025009,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-14025026,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-15025009,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-15025022,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-15025036,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-15025039,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-15025045,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-15025048,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-15025055,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-15025058,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-15025066,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025006,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025012,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025015,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025018,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025019,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025021,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025032,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025036,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025037,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025039,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025040,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025043,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025050,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025062,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025063,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025064,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025067,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025068,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025070,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025071,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025072,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-16025603,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-17025006,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-17025014,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-17025019,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-17025030,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-17025047,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-17025054,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-17025072,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-17025603,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-17025604,025,MAT4440,Pozitif Operatörlere Giriş,GÜZ DÖNEMİ
-13025090,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-14025009,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-14025026,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-15025009,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-15025013,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-15025024,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-15025029,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-15025039,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-15025045,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-15025048,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-15025052,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-15025066,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-15025068,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025006,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025012,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025016,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025018,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025019,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025036,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025037,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025042,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025050,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025052,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025057,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025060,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025062,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025063,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025064,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025065,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025068,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025070,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025071,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025072,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-16025603,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-17025006,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-17025010,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-17025012,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-17025018,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-17025030,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-17025042,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-17025046,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-17025054,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-17025055,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-17025056,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-17025058,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-17025072,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-17025604,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-17025902,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-18025011,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-18025012,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-18025018,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-18025051,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-18025902,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
-19025016,025,MAT4540,Matematik Tarihi,GÜZ DÖNEMİ
 16028008,028,MBG3071,Biyoetik,GÜZ DÖNEMİ
 16028019,028,MBG3071,Biyoetik,GÜZ DÖNEMİ
 17028001,028,MBG3071,Biyoetik,GÜZ DÖNEMİ
@@ -14988,7 +14975,6 @@ std_no,department_no,class_code,class_name,period
 11052060,052,MTM3671,Çizge Kuramı Ve Algoritmalar,GÜZ DÖNEMİ
 14052096,052,MTM3671,Çizge Kuramı Ve Algoritmalar,GÜZ DÖNEMİ
 14052903,052,MTM3671,Çizge Kuramı Ve Algoritmalar,GÜZ DÖNEMİ
-15025014,025,MTM3671,Çizge Kuramı Ve Algoritmalar,GÜZ DÖNEMİ
 15052028,052,MTM3671,Çizge Kuramı Ve Algoritmalar,GÜZ DÖNEMİ
 15052601,052,MTM3671,Çizge Kuramı Ve Algoritmalar,GÜZ DÖNEMİ
 15052907,052,MTM3671,Çizge Kuramı Ve Algoritmalar,GÜZ DÖNEMİ
@@ -15193,7 +15179,6 @@ std_no,department_no,class_code,class_name,period
 14052050,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
 14052062,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
 14052099,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
-15025014,025,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
 15052004,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
 15052012,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
 15052013,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
@@ -15219,7 +15204,6 @@ std_no,department_no,class_code,class_name,period
 15052601,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
 15052607,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
 15052911,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
-16025009,025,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
 16052009,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
 16052010,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
 16052011,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
@@ -15335,7 +15319,6 @@ std_no,department_no,class_code,class_name,period
 16052100,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
 16052101,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
 16052901,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
-17025019,025,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
 17052004,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
 17052013,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
 17052016,052,MTM4581,Oyunlar Teorisine Giriş,GÜZ DÖNEMİ
@@ -15391,7 +15374,6 @@ std_no,department_no,class_code,class_name,period
 15052100,052,MTM4641,Veri Madenciliğine Giriş,GÜZ DÖNEMİ
 15052608,052,MTM4641,Veri Madenciliğine Giriş,GÜZ DÖNEMİ
 15052911,052,MTM4641,Veri Madenciliğine Giriş,GÜZ DÖNEMİ
-16025009,025,MTM4641,Veri Madenciliğine Giriş,GÜZ DÖNEMİ
 16052002,052,MTM4641,Veri Madenciliğine Giriş,GÜZ DÖNEMİ
 16052008,052,MTM4641,Veri Madenciliğine Giriş,GÜZ DÖNEMİ
 16052009,052,MTM4641,Veri Madenciliğine Giriş,GÜZ DÖNEMİ
@@ -30967,305 +30949,6 @@ std_no,department_no,class_code,class_name,period
 18022801,022,MAT1320,Lineer Cebir Türkçe Grupları Ortak Sınav,BAHAR DÖNEMİ
 18022901,022,MAT1320,Lineer Cebir Türkçe Grupları Ortak Sınav,BAHAR DÖNEMİ
 19022018,022,MAT1320,Lineer Cebir Türkçe Grupları Ortak Sınav,BAHAR DÖNEMİ
-12025111,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-13025024,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-14025026,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-14025046,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-15025033,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-15025048,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-16025006,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-16025016,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-16025018,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-16025019,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-16025025,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-16025036,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-16025040,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-16025056,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-16025061,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-16025063,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-16025067,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-17025006,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-17025057,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-17025902,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-18025060,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-19025001,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-19025605,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-20025604,025,MAT3280,İntegral Denklemlere Giriş,BAHAR DÖNEMİ
-12025095,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-15025009,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-15025029,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-15025030,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-15025033,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-15025036,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-15025053,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-15025054,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-15025055,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-15025066,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-16025015,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-16025016,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-16025021,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-16025028,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-16025037,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-16025039,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-16025040,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-16025057,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-16025060,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-16025061,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-16025062,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-16025064,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-16025067,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-17025004,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-17025014,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-17025018,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-17025020,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-17025023,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-17025026,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-17025030,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-17025033,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-17025038,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-17025047,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-17025054,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-17025055,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-17025056,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-17025065,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-17025067,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-17025070,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-17025072,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025008,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025009,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025011,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025013,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025015,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025017,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025023,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025038,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025044,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025049,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025052,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025054,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025057,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025060,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025064,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025066,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025067,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025604,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025901,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-18025904,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-19025001,025,MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar,BAHAR DÖNEMİ
-13025069,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-13025090,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-14025046,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-15025009,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-15025054,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-15025059,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-15025068,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-16025018,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-16025021,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-16025025,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-16025027,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-16025029,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-16025030,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-16025035,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-16025037,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-16025039,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-16025042,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-16025045,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-16025046,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-16025052,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-16025056,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-16025059,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-16025070,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025004,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025006,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025012,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025014,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025023,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025026,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025030,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025031,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025032,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025033,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025035,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025038,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025040,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025047,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025053,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025054,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025055,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025056,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025065,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025070,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025072,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025601,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-17025902,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-18025011,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-18025018,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-18025051,025,MAT3320,Hilbert Uzaylarına Giriş,BAHAR DÖNEMİ
-12025102,025,MAT3330,Değişmeli Cebir,BAHAR DÖNEMİ
-13025090,025,MAT3330,Değişmeli Cebir,BAHAR DÖNEMİ
-15025029,025,MAT3330,Değişmeli Cebir,BAHAR DÖNEMİ
-15025033,025,MAT3330,Değişmeli Cebir,BAHAR DÖNEMİ
-15025039,025,MAT3330,Değişmeli Cebir,BAHAR DÖNEMİ
-15025048,025,MAT3330,Değişmeli Cebir,BAHAR DÖNEMİ
-15025058,025,MAT3330,Değişmeli Cebir,BAHAR DÖNEMİ
-16025016,025,MAT3330,Değişmeli Cebir,BAHAR DÖNEMİ
-16025025,025,MAT3330,Değişmeli Cebir,BAHAR DÖNEMİ
-16025028,025,MAT3330,Değişmeli Cebir,BAHAR DÖNEMİ
-16025061,025,MAT3330,Değişmeli Cebir,BAHAR DÖNEMİ
-16025063,025,MAT3330,Değişmeli Cebir,BAHAR DÖNEMİ
-12025095,025,MAT4250,Adi Dif.Denk.Sayısal Çözümleri,BAHAR DÖNEMİ
-15025058,025,MAT4250,Adi Dif.Denk.Sayısal Çözümleri,BAHAR DÖNEMİ
-16025035,025,MAT4250,Adi Dif.Denk.Sayısal Çözümleri,BAHAR DÖNEMİ
-16025046,025,MAT4250,Adi Dif.Denk.Sayısal Çözümleri,BAHAR DÖNEMİ
-16025061,025,MAT4250,Adi Dif.Denk.Sayısal Çözümleri,BAHAR DÖNEMİ
-17025014,025,MAT4250,Adi Dif.Denk.Sayısal Çözümleri,BAHAR DÖNEMİ
-17025046,025,MAT4250,Adi Dif.Denk.Sayısal Çözümleri,BAHAR DÖNEMİ
-17025058,025,MAT4250,Adi Dif.Denk.Sayısal Çözümleri,BAHAR DÖNEMİ
-13025024,025,MAT4320,Finans ve Yönetim Matematiği,BAHAR DÖNEMİ
-15025009,025,MAT4320,Finans ve Yönetim Matematiği,BAHAR DÖNEMİ
-15025029,025,MAT4320,Finans ve Yönetim Matematiği,BAHAR DÖNEMİ
-15025033,025,MAT4320,Finans ve Yönetim Matematiği,BAHAR DÖNEMİ
-15025054,025,MAT4320,Finans ve Yönetim Matematiği,BAHAR DÖNEMİ
-15025059,025,MAT4320,Finans ve Yönetim Matematiği,BAHAR DÖNEMİ
-15025060,025,MAT4320,Finans ve Yönetim Matematiği,BAHAR DÖNEMİ
-15025066,025,MAT4320,Finans ve Yönetim Matematiği,BAHAR DÖNEMİ
-16025035,025,MAT4320,Finans ve Yönetim Matematiği,BAHAR DÖNEMİ
-16025036,025,MAT4320,Finans ve Yönetim Matematiği,BAHAR DÖNEMİ
-16025070,025,MAT4320,Finans ve Yönetim Matematiği,BAHAR DÖNEMİ
-17025014,025,MAT4320,Finans ve Yönetim Matematiği,BAHAR DÖNEMİ
-17025030,025,MAT4320,Finans ve Yönetim Matematiği,BAHAR DÖNEMİ
-17025046,025,MAT4320,Finans ve Yönetim Matematiği,BAHAR DÖNEMİ
-17025047,025,MAT4320,Finans ve Yönetim Matematiği,BAHAR DÖNEMİ
-17025603,025,MAT4320,Finans ve Yönetim Matematiği,BAHAR DÖNEMİ
-20025604,025,MAT4320,Finans ve Yönetim Matematiği,BAHAR DÖNEMİ
-12025111,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-13025024,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-13025902,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-14025009,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-15025009,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-15025029,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-15025033,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-15025039,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-15025054,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-15025058,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-15025066,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-16025006,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-16025019,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-16025025,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-16025027,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-16025030,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-16025037,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-16025045,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-16025046,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-16025056,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-16025059,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-16025060,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-16025061,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-16025063,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-16025064,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-16025071,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-16025603,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025006,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025010,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025018,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025020,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025023,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025026,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025030,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025031,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025032,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025033,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025035,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025038,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025047,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025050,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025054,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025055,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025056,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025057,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025070,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025072,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-17025903,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-18025011,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-18025018,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-18025023,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-18025902,025,MAT4340,Kompleks Fonksiyonlar Teorisi 2,BAHAR DÖNEMİ
-14025046,025,MAT4460,Düzlemsel Kinematik,BAHAR DÖNEMİ
-15025033,025,MAT4460,Düzlemsel Kinematik,BAHAR DÖNEMİ
-15025059,025,MAT4460,Düzlemsel Kinematik,BAHAR DÖNEMİ
-16025016,025,MAT4460,Düzlemsel Kinematik,BAHAR DÖNEMİ
-16025028,025,MAT4460,Düzlemsel Kinematik,BAHAR DÖNEMİ
-16025029,025,MAT4460,Düzlemsel Kinematik,BAHAR DÖNEMİ
-16025040,025,MAT4460,Düzlemsel Kinematik,BAHAR DÖNEMİ
-16025057,025,MAT4460,Düzlemsel Kinematik,BAHAR DÖNEMİ
-17025005,025,MAT4460,Düzlemsel Kinematik,BAHAR DÖNEMİ
-17025031,025,MAT4460,Düzlemsel Kinematik,BAHAR DÖNEMİ
-17025032,025,MAT4460,Düzlemsel Kinematik,BAHAR DÖNEMİ
-18025902,025,MAT4460,Düzlemsel Kinematik,BAHAR DÖNEMİ
-13025902,025,MAT4510,Lineer Operatörlere Giriş,BAHAR DÖNEMİ
-15025009,025,MAT4510,Lineer Operatörlere Giriş,BAHAR DÖNEMİ
-16025015,025,MAT4510,Lineer Operatörlere Giriş,BAHAR DÖNEMİ
-16025046,025,MAT4510,Lineer Operatörlere Giriş,BAHAR DÖNEMİ
-16025057,025,MAT4510,Lineer Operatörlere Giriş,BAHAR DÖNEMİ
-16025059,025,MAT4510,Lineer Operatörlere Giriş,BAHAR DÖNEMİ
-16025061,025,MAT4510,Lineer Operatörlere Giriş,BAHAR DÖNEMİ
-16025070,025,MAT4510,Lineer Operatörlere Giriş,BAHAR DÖNEMİ
-17025005,025,MAT4510,Lineer Operatörlere Giriş,BAHAR DÖNEMİ
-17025014,025,MAT4510,Lineer Operatörlere Giriş,BAHAR DÖNEMİ
-18025012,025,MAT4510,Lineer Operatörlere Giriş,BAHAR DÖNEMİ
-18025023,025,MAT4510,Lineer Operatörlere Giriş,BAHAR DÖNEMİ
-18025044,025,MAT4510,Lineer Operatörlere Giriş,BAHAR DÖNEMİ
-15025045,025,MAT4550,Graf Teoriye Giriş,BAHAR DÖNEMİ
-15025048,025,MAT4550,Graf Teoriye Giriş,BAHAR DÖNEMİ
-15025053,025,MAT4550,Graf Teoriye Giriş,BAHAR DÖNEMİ
-15025055,025,MAT4550,Graf Teoriye Giriş,BAHAR DÖNEMİ
-15025060,025,MAT4550,Graf Teoriye Giriş,BAHAR DÖNEMİ
-16025010,025,MAT4550,Graf Teoriye Giriş,BAHAR DÖNEMİ
-16025018,025,MAT4550,Graf Teoriye Giriş,BAHAR DÖNEMİ
-16025029,025,MAT4550,Graf Teoriye Giriş,BAHAR DÖNEMİ
-16025042,025,MAT4550,Graf Teoriye Giriş,BAHAR DÖNEMİ
-16025050,025,MAT4550,Graf Teoriye Giriş,BAHAR DÖNEMİ
-16025056,025,MAT4550,Graf Teoriye Giriş,BAHAR DÖNEMİ
-17025004,025,MAT4550,Graf Teoriye Giriş,BAHAR DÖNEMİ
-17025012,025,MAT4550,Graf Teoriye Giriş,BAHAR DÖNEMİ
-17025053,025,MAT4550,Graf Teoriye Giriş,BAHAR DÖNEMİ
-17025058,025,MAT4550,Graf Teoriye Giriş,BAHAR DÖNEMİ
-17025902,025,MAT4550,Graf Teoriye Giriş,BAHAR DÖNEMİ
-18025001,025,MAT4550,Graf Teoriye Giriş,BAHAR DÖNEMİ
-15025033,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-15025059,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-16025006,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-16025010,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-16025019,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-16025027,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-16025028,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-16025029,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-16025030,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-16025039,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-16025056,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-16025062,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-17025004,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-17025006,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-17025010,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-17025018,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-17025023,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-17025030,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-17025031,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-17025032,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-17025033,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-17025035,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-17025047,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-17025054,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-17025055,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-17025056,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-17025057,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-17025070,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-17025072,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-18025011,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-18025018,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-18025042,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-18025051,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
-18025057,025,MAT4560,Bilgisayar Programlama 2,BAHAR DÖNEMİ
 15028036,028,MBG3082,Biyokimyasal Hesaplamalar,BAHAR DÖNEMİ
 16028012,028,MBG3082,Biyokimyasal Hesaplamalar,BAHAR DÖNEMİ
 16028037,028,MBG3082,Biyokimyasal Hesaplamalar,BAHAR DÖNEMİ
@@ -34086,7 +33769,6 @@ std_no,department_no,class_code,class_name,period
 15052603,052,MTM4622,Yapay Zeka,BAHAR DÖNEMİ
 15052607,052,MTM4622,Yapay Zeka,BAHAR DÖNEMİ
 15052802,052,MTM4622,Yapay Zeka,BAHAR DÖNEMİ
-16025043,025,MTM4622,Yapay Zeka,BAHAR DÖNEMİ
 16052013,052,MTM4622,Yapay Zeka,BAHAR DÖNEMİ
 16052015,052,MTM4622,Yapay Zeka,BAHAR DÖNEMİ
 16052016,052,MTM4622,Yapay Zeka,BAHAR DÖNEMİ
@@ -34129,7 +33811,6 @@ std_no,department_no,class_code,class_name,period
 16052904,052,MTM4622,Yapay Zeka,BAHAR DÖNEMİ
 16052907,052,MTM4622,Yapay Zeka,BAHAR DÖNEMİ
 16052908,052,MTM4622,Yapay Zeka,BAHAR DÖNEMİ
-17025019,025,MTM4622,Yapay Zeka,BAHAR DÖNEMİ
 17052001,052,MTM4622,Yapay Zeka,BAHAR DÖNEMİ
 17052002,052,MTM4622,Yapay Zeka,BAHAR DÖNEMİ
 17052010,052,MTM4622,Yapay Zeka,BAHAR DÖNEMİ

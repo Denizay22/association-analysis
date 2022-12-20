@@ -1,0 +1,3 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+['Halk Müziği Bilgileri 2'],['Halk Müziği Bilgileri 1'],0.19047619047619047,0.38095238095238093,0.14285714285714285,0.75,1.96875,0.07029478458049887,2.4761904761904763
+['Halk Müziği Bilgileri 1'],['Halk Müziği Bilgileri 2'],0.38095238095238093,0.19047619047619047,0.14285714285714285,0.375,1.96875,0.07029478458049887,1.2952380952380953

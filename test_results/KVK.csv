@@ -1,0 +1,11 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+['Geleneksel Ahşap Süsleme Teknikleri'],['Geleneksel Desen Teknikleri'],0.26,0.28,0.26,1.0,3.571428571428571,0.1872,inf
+['Arkeometriye Giriş'],['Geleneksel Ahşap Süsleme Teknikleri'],0.18,0.26,0.18,1.0,3.846153846153846,0.13319999999999999,inf
+"['Geleneksel Desen Teknikleri', 'Batılılaşma Dönemi İstanbul']",['Geleneksel Ahşap Süsleme Teknikleri'],0.18,0.26,0.18,1.0,3.846153846153846,0.13319999999999999,inf
+['Arkeometriye Giriş'],['Geleneksel Desen Teknikleri'],0.18,0.28,0.18,1.0,3.571428571428571,0.1296,inf
+['Geleneksel Desen Teknikleri'],['Geleneksel Ahşap Süsleme Teknikleri'],0.28,0.26,0.26,0.9285714285714285,3.571428571428571,0.1872,10.359999999999989
+['Geleneksel Ahşap Süsleme Teknikleri'],['Arkeometriye Giriş'],0.26,0.18,0.18,0.6923076923076923,3.8461538461538463,0.13319999999999999,2.665
+['Mobilya Döşeme Teknikleri'],['Osmanlı Mimarlığı Ve Koruma'],0.32,0.38,0.22,0.6875,1.8092105263157894,0.0984,1.984
+['Osmanlı Mimarlığı Ve Koruma'],['Mobilya Tarihi'],0.38,0.42,0.22,0.5789473684210527,1.3784461152882206,0.06040000000000001,1.3775000000000002
+['Osmanlı Mimarlığı Ve Koruma'],['Mobilya Döşeme Teknikleri'],0.38,0.32,0.22,0.5789473684210527,1.8092105263157896,0.0984,1.615
+['Mobilya Tarihi'],['Osmanlı Mimarlığı Ve Koruma'],0.42,0.38,0.22,0.5238095238095238,1.3784461152882206,0.06040000000000001,1.302

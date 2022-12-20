@@ -1,0 +1,10 @@
+bir bölümdeki öğrenciler, başka bir bölümden en çok hangi dersleri almış görselleştirilebilir / bölüme göre de olabilir
+giriş yılı 2010'dan önce olan öğrencilerin kayıtlarını geri getir
+bölüme göre derslerin analizi
+association analysis görselleştirme tekniklerini araştır ve görselleştir
+
+
+az kaydı olan bölümler
+MTP DNS BME
+datadan temizlencek silincek
+
