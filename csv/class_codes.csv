@@ -1,0 +1,2392 @@
+class_code,class_name
+BLM2021,Alt Seviye Programlama
+BLM2031,Yapısal Programlama
+BLM2041,Bilg.müh.için Sinyaller Ve Sistemler
+BLM2051,Seminer
+BLM2512,Veri Yapıları Ve Algoritmalar
+BLM2521,Ayrık Matematik
+BLM3010,Bilgisayar Projesi
+BLM3021,Algoritma Analizi
+BLM3031,Mikroişlemci Sistemleri
+BLM3041,Veritabanı Yönetimi
+BLM3051,Veri İletişimi
+BLM3120,Bilgiye Erişim Ve Arama Motorları
+BLM3580,Sistem Programlama
+BLM3590,İstatistiksel Veri Analizi
+BLM3720,Bilgisayar Grafiğine Giriş
+BLM3760,Uzman Sistemlere Giriş
+BLM4011,Bilişim Sistemleri Güvenliği
+BLM4540,Görüntü İşleme
+BLM4580,Doğal Dil İşlemeye Giriş
+BLM4710,Yönetim Bilgi Sistemleri
+BLM4770,Yazılım Kalite ve Test Süreci
+BLM4800,Veri Madenciliğine Giriş
+BLM9000,Bitirme Çalışması
+BSP3352,Batı Mitolojisi
+BTO4071,Web Tasarımı
+BTO4161,Proje Geliştirme Ve Yönetimi 1
+CEV1170,Temel Bilgisayar Bilimleri
+CEV4071,Atıksuların Arıtılması
+CEV4462,Çevre Hukuku
+DTP1591,Müzik Teknolojisine Giriş
+DTP1801,Solfej 1
+DTP2571,Alan Araştırma Teknikleri
+DTP2671,Ses Programlama
+DTP2801,Solfej 3
+DTP2821,Uzmanlık Alan Semineri 1
+DTP2931,Tarihsel Müzikoloji
+DTP3841,Bilgisayar Ortamında Müzik Yazılımı
+DTP4652,Müzik Fiziği
+DTP4741,Çalgı Bilgisi Ve Orkestrasyon
+DTP4801,Solfej 7
+DTP4831,Form Bilgisi 3
+DTP4841,Türk Müziği Usulleri 1
+EHM1011,Elektronik Ve Haberleşme Mühendisliğine Giriş
+EHM1041,İş Sağlığı Ve Güvenliği 1
+EHM2122,Elektronik Devreler 1
+EHM2141,Lojik Devreler
+EHM2152,İşaret Ve Sistemler
+EHM2161,Sayısal Çözüm Yöntemleri
+EHM3111,Elektronik Devreler 2
+EHM3121,Mikrodalga 1
+EHM3131,Haberleşme 1
+EHM3141,Mikroişlemci Sistemleri
+EHM3162,Mikrodalga Ve Antenler Lab.
+EHM4200,Tasarım Projesi
+EHM4210,Algılayıcılar Ve Dönüştürücüler
+EHM4300,Fiber Optiğe Giriş
+EHM4330,Optik Haberleşme Sistemleri
+EHM4340,Analog Tümdevreler
+EHM4840,Görüntü İşleme
+EHM4880,Elektronik Savunma Sistemlerine Giriş
+EHM4991,Çok Disiplinli Tasarım Projesi
+ELM1001,Elektrik Mühendisliğine Giriş
+ELM1041,İş Sağlığı ve Güvenliği 1
+ELM2051,Devre Analizi
+ELM2061,Elk.manyetik Alan Teo.
+ELM2071,Mühendislikte Çizim ve Tasarım
+ELM2081,Olasılık Ve İstatistik
+ELM3001,Elektrik Makinaları 1
+ELM3081,Yüksek Gerilim Tekniği
+ELM3091,Sayısal Sistemler
+ELM3141,Enerji İletim Sistemleri
+ELM4000,Bitirme Çalışması
+ELM4041,Elektrik Makinaları Lab. 1
+ELM4045,Güç Sistemlerinin Optimizasyonu
+ELM4051,Elektrik Makinalarının Kontrolü
+ELM4991,Çok Disiplinli Tasarım Projesi
+END1911,İş Sağlığı Ve Güvenliği 1
+END3961,Sistem Analizi
+END4651,Kalite Yönetimi
+END4971,Tesis Tasarımı Ve Planlaması
+END4972,End. Müh. Laboratuvar Uygulamaları
+END4991,Endüstri Müh. Tasarım 2
+FIZ1001,Fizik 1
+FIZ1001,Fizik 1 Türkçe (1) Grupları Ortak Sınav
+FIZ1111,Fizik 1
+FIZ2131,Fizik 3
+FIZ2211,Fizikte Matematiksel Yöntemler 1
+FIZ2221,Fizikte Diferansiyel Denklemler
+FIZ3401,Kuantum Fiziği 1
+FIZ3411,Klasik Elektromanyetik Teori 1
+FIZ4101,Katıhal Fiziği 1
+FIZ4111,Çekirdek Fiziği 1
+FIZ4450,Süperiletkenliğe Giriş
+FIZ4470,Biyofizik
+FIZ4590,Sağlık Fiziği
+FIZ4640,Temel Tanecikler
+FIZ4690,Katıhal Fiziği 2
+FVP1121,Desen 1
+FVP2441,Analog Fotoğraf
+FVP3701,Fotoğraf Ve Sanat
+FVP4000,Bitirme Çalışması
+FVP4411,Foto- Grafik Tasarım
+HRT2111,Geometrik Jeodezi
+HRT2121,Hata Kuramı Ve Parametre Kestirimi
+HRT2132,Uydu Jeodezisi
+HRT2411,Kartografya 1
+HRT3191,Fiziksel Jeodezi
+HRT3211,Fotogmetrinin Temelleri
+HRT3331,Mühendislik Ölçmeleri
+HRT3431,Coğrafi Bilgi Sistemleri 1
+HRT3571,Taşınmaz Hukuku Ve Kadastro
+HRT4171,Koordinat Sistemleri
+HRT4201,Uzaktan Algılama
+HRT4311,Taşınmaz Değerlemesi
+HRT4361,Madencilik Ölçmeleri
+HRT4391,Tasarım 1- Yol Projesi
+IKT1111,İktisatçılar İçin Matematik 1
+IKT1121,Sosyoloji
+IKT2201,Mikro İktisat
+IKT2272,Kamu Ekonomisi
+IKT2281,Genel İktisat Tarihi
+IKT2901,İktisatta Araştırma Yöntemleri
+IKT3311,Uluslararası İktisat 1
+IKT3321,Para Teorisi
+IKT3901,Ekonometri 1
+IKT3902,Ekonometri 2
+IKT4000,Bitirme Çalışması
+IKT4401,Gelişme Ekonomisi
+IKT4411,İktisadi Düşünce Tarihi
+ILT4000,Bitirme Çalışması
+ILT4651,Proje 4
+ING2321,İngiliz Edebiyatı 1
+ING3131,Dil Becerilerinin Öğretimi I
+ING3151,İkinci Yabancı Dil I
+ING3161,Drama
+ING3311,Çocuklara Yabancı Dil Öğretimi 1
+ING3321,İngilizce Dil Becerilerinin Öğretimi 1
+ING3331,Dil Ve Edebiyat Öğretimi 1
+ING4131,İkinci Yabancı Dil III
+ING4261,Proje Uygulamaları
+INS1911,Teknik Resim Ve Tasarı Geometri
+INS2311,Dinamik
+INS2321,Mukavemet I
+INS2711,Malzeme Bilimi
+INS2811,Statik- Mukavemet
+INS2931,İstatistik
+INS2942,Sayısal Analiz
+INS3121,Zemin Mekaniği
+INS3122,Toprak Dolgular Ve Derin Kazılar
+INS3211,Hidrolik
+INS3222,Kıyı Hidroliğine Giriş
+INS3441,Karayolu Mühendisliği
+INS3531,Çelik Yapılar 1
+INS3541,Yapı Statiği 2
+INS3592,Sonlu Elemanlar Yöntemine Giriş
+INS3712,İleri Beton Teknolojisi
+INS4000,Bitirme Çalışması
+INS4112,Geoteknik Deprem Mühendisliği
+INS4201,Su Kaynakları
+INS4232,Barajlar
+INS4251,Sulama- Kurutma
+INS4272,Drenaj Tekniği
+INS4421,Karayolu Üstyapıları
+INS4491,Trafik Mühendisliği
+INS4511,Betonarme 2
+INS4582,Betonarme 3
+INS4691,Betonarme Yapı Tasarımı
+INS4721,Binalarda Isı Yalıtımı Tasarımı
+INS4741,Betonun Dayanıklılığı
+INS4812,İnşaat Makineleri
+INS4821,İnşaat Yönetimi
+ISL1182,Genel Muhasebe II
+ISL1611,İşletme Bilimine Giriş
+ISL2211,Mali Tablolar Analizi
+ISL2441,İşletmeciler İçin İstatistik 1
+ISL3152,İşletmelerde Güncel Sorunlara Çözüm Seminerleri 1
+ISL3221,Finansal Yönetim I
+ISL3621,Üretim Yönetimi
+ISL4251,Yönetim Muhasebesi
+ISL4421,Pazarlama Araştırması
+ISL4551,Nicel Karar Verme Teknikleri 1
+IST1081,Bilgisayar Programlamaya Giriş
+IST2161,Mesleki İngilizce 1
+IST3130,Karar Teorisi
+IST3131,Araştırma Teknikleri
+IST3230,Planlama Teknikleri
+IST4111,Çok Değişkenli İstatistik 1
+IST4240,İstatistikçiler İçin Matematiksel Programlama
+ITB2080,Toplumsal Değişim Sürecinde Kadın
+ITB3010,Sosyoloji
+ITB3020,Felsefeye Giriş
+ITB3040,20.Yüzyılda Siy.Geliş.ve Top.Hareketler
+ITB3150,Tarih ve Sinema
+ITB3330,Çevre Ve Ekoloji
+ITB3420,Osmanlı Devletinin Toplumsal Yapısı
+ITB3560,Siyaset Felsefesi
+ITB4100,Toplumsal Yapılar Ve Tarihsel Dönüşümler
+KIM1170,Genel Kimya
+KIM1170,Genel Kimya Türkçe Grupları Ortak Sınav
+KIM2061,"Kimyasallar, Tehlikeleri Ve Korunma Yolları"
+KIM2511,Analitik Kimya 1
+KIM2521,Anorganik Kimya 1
+KIM2531,Fizikokimya 1
+KIM3411,Enstrümental Analiz 1
+KIM3441,Organik Kimya 1
+KIM4911,Biyokimya Lab. 2
+MAK1051,Bilgisayar Destekli Teknik Resim
+MAK1061,Temel Bilgisayar Bilimleri
+MAK1071,Makine Mühendisliğine Giriş Ve Etik
+MAK2011,Ölçme Tekniği Ve Değerlendirme
+MAK2061,Malzeme
+MAK2071,Dinamik 1
+MAK2081,Mukavemet 1
+MAK2091,Termodinamik 1
+MAK3072,Proje 1
+MAK3081,Analitik Mekanik
+MAK3091,Makine Elemanları 1
+MAK3141,Enerji Ekonomisi 1
+MAK3151,Enerji Sistemlerinde Optimizasyon
+MAK3181,Sıhhi Tesisat
+MAK3271,Isı Transferi 1
+MAK3291,Mühendislik Ekonomisi Ve Değer Yönetimi
+MAK3391,İmalat Yöntemleri 2
+MAK3481,Elektrik- Elektroniğin Temelleri
+MAK4071,Mekanizma Tekniği 1
+MAK4081,Proje 2
+MAK4291,Laboratuvar
+MAK4391,Otomatik Kontrol 1
+MAK4451,Mekanik Titreşimler
+MAK4471,İş Sağlığı Ve Güvenliği 1
+MAK4521,Raylı Sistemler
+MAK4561,Plastik Malzemeler Ve Şekillendirilmesi
+MAK4591,Akıllı Binalarda Mekanik Tesisat Ve Elemanları
+MAK4651,Kütle Transferi
+MAK4681,Kalıp İmal Tekniği
+MAK4901,Buhar Kazanları
+MAK9000,Bitirme Çalışması
+MAT1071,Matematik 1
+MAT1071,Matematik 1 Türkçe (1) Grupları Ortak Sınav
+MAT1072,Matematik 2
+MAT1152,Lineer Cebir 2
+MAT1320,Lineer Cebir
+MAT1320,Lineer Cebir Türkçe Grupları Ortak Sınav
+MAT1811,Lineer Cebir 1
+MAT1821,Matematik
+MAT1821,Matematik Türkçe Grupları Ortak Sınav
+MAT2411,Diferansiyel Denklemler
+MAT2411,Diferansiyel Denklemler Türkçe Grupları Ortak Sınav
+MAT3151,Diferansiyel Geometri 1
+MAT3161,Soyut Cebir
+MAT3181,Sayısal Analiz 1
+MAT4041,Fonksiyonel Analize Giriş
+MAT4111,Kompleks Fonksiyonlar Teorisi 1
+MAT4430,Riesz Uzaylarına Giriş
+MIM1031,Mimari Anlatım Teknikleri
+MIM1051,Bina Bilgisi 1
+MIM2031,Mimarlıkta Yapı Statiği
+MIM2081,Bilgisayar Ortamında Mimarlık
+MIM2101,Yapı Elemanları 2
+MIM2421,Mimarlık Tarihi
+MIM3011,Mimari Tasarım 4
+MIM3012,Mimari Tasarım 5
+MIM3041,Taşıyıcı Sistem Tasarımı 2
+MIM3051,Mimarlık Tarihi 3
+MIM3121,Suluboya Tekniği
+MIM3122,Mimarlıkta Peyzaj Tasarımı
+MIM3242,Günışığı
+MIM3322,Türk Evi Ve Koruması
+MIM3331,Mimar Sinan Ve Dönemi
+MIM3332,1970 Sonrası Dünya Mimarlığı
+MIM4000,Bitirme Çalışması
+MIM4011,Mimari Tasarım 6
+MIM4012,Mimari Tasarım 7
+MIM4041,Tesisat Bilgisi
+MIM4511,Ortadoğu Ülkelerinde İslam Mimarlığı
+MKT1831,Lab 1- Atölye Ve İmalat
+MKT2141,Analog Elektronik
+MKT2151,Nesneye Yönelik Programlama
+MKT3801,Sistem Dinamiği
+MKT3811,Mikroişlemciler Ve Programlanması
+MKT3821,Makine Elemanları
+MKT3831,Akışkanlar Mekaniği Ve Isı Geçişi
+MKT3841,Sayısal Yöntemler
+MKT3861,İmalat Yöntemleri
+MKT4801,Elektriksel Tahrik Sistemleri
+MKT4822,Mekatronik Mühendisliğinde Özel Konular
+MKT4829,Havacılığın Temelleri
+MKT4833,Mekanik Titreşimler
+MTF4201,Sözlü Çeviri 3
+MTF9000,Bitirme Çalışması
+MTM1531,Lineer Cebir
+MTM1551,İş Sağlığı Ve Güvenliği 1
+MTM2501,İleri Analiz 1
+MTM2531,Diferansiyel Denklemler
+MTM3531,Özel Fonksiyonlar
+MTM3551,İntegral Dönüşümler
+MTM3591,Bulanık Mantık
+MTM3611,Matematik Tarihi
+MTM3691,Lineer Programlama Teorisi
+MTM3701,Mekanik 1
+MTM4000,Bitirme Çalışması
+MTM4501,Yöneylem Araştırması
+MTM4511,Matematik Mühendisliğinde  Tasarım Uygulamaları
+MTM4581,Oyunlar Teorisine Giriş
+MTM4641,Veri Madenciliğine Giriş
+MTM4681,Mobil Programlama
+MTP1151,Müzik Tarihi Antik Yunan Ve Rönesans
+MTP2161,Yardımcı Piyano 2
+MTP2171,Koro 1
+MTP3151,Müzik Tarihi 1900/1950 Arası
+MTP3161,Yardımcı Piyano 4
+MTP4000,Bitirme Çalışması
+MTP4031,Piyano 7
+MTP4191,Oda Müziği 5
+SBU1031,Sosyoloji
+SBU1401,Siyaset Bilimine Giriş
+SBU2311,Siyasi Tarih 1
+SBU2501,Siyaset Kuramı I
+SBU2551,Ortadoğuda Toplumsal Ve Siyasal Konular
+SBU2652,Amerikan Dış Politikası
+SBU3011,Devletler Hukuku 1
+SBU3101,Uluslararası İlişkiler 1
+SBU3111,Türkiye Siyaseti 1
+SBU3122,Medya Ve Politika
+SBU3126,Siyasal İletişim Ve Lobicilik
+SBU3201,Karşılaştırılmalı Devlet Sistemleri
+SBU3301,Mesleki İngilizce 2
+SBU3401,Araştırma Yöntemleri
+SBU3502,Toplumsal Duyarlılık Projesi 1
+SBU4000,Bitirme Çalışması
+SBU4111,Türkiyenin Dış Politikası 1
+SBU4121,Uluslararası İlişkiler Kuramları
+SBU4221,Sosyal Politika Ve Sosyal Ekonomi
+SBU4611,Balkanlarda Uluslaşma Hareketleri Ve Türkiye
+SYP1611,Uygarlık ve Sanat Tarihi 1
+SYP3221,Batılılaşma Döneminden Günümüze Türk Sanatı
+SYP4000,Bitirme Çalışması
+TDE4241,Eski Türk Edebiyatı 18. Yüzyıl
+TDE4391,Türk Tiyatro Tarihi
+BLM1012,Yapısal Prog. Giriş
+BLM1022,Sayısal Analiz
+BLM1032,Devre Teorisi
+BLM2012,Nesneye Yönelik Programlama
+BLM2022,Bilgisayar Donanımı
+BLM2032,Elektronik Devreler
+BLM2502,Hesaplama Kuramı
+BLM3012,Mesleki Hukuk Ve Etik
+BLM3022,Ağ Teknolojileri
+BLM3520,Mobil Programlamaya Giriş
+BLM3620,Sayısal İşaret İşleme
+BLM3780,Veritabanı Sistemlerinin Gerçekleştirilmesi
+BLM4120,Büyük Veri İşleme Ve Analizi
+BLM4510,Yapay Zeka
+BLM4590,Ayrık Olay Simulasyonu
+BLM4830,Robot Teknolojisine Giriş
+BLM4900,İleri Ağ Programlama
+BSP1102,Temel Tasarım 2
+BSP3282,Disiplinlerarası Sanat
+BSP3301,Doğu Mitolojisi
+BSP4332,Felsefe Ve Sanat
+BTO3822,Eğitim Felsefesi
+BTO4162,Proje Geliştirme Ve Yönetimi 2
+BTO4212,Öğretmenlik Uygulaması
+CEV3362,İçme Sularının Arıtılması
+DTP1552,Temel Kompozisyon Teknikleri
+DTP1802,Solfej 2
+DTP2542,Alan Araştırmasında Yöntem
+DTP2802,Solfej 4
+DTP3802,Solfej 6
+EHM1012,Elektrik Devre Temelleri
+EHM1022,Mühendislik Matematiği
+EHM2132,Elektromagnetik Dalga Teorisi
+EHM3122,Haberleşme 2
+EHM3132,Otomatik Kontrol
+EHM3152,Haberleşme Lab.
+EHM4012,İş Hayatına Hazırlık
+EHM4350,Sayısal Elektronik Devreleri
+EHM4850,Haberleşme Teorisi
+EHM9000,Bitirme Çalışması
+ELM1002,Devre Teorisi
+ELM1042,İş Sağlığı ve Güvenliği 2
+ELM2020,Malzeme
+ELM2042,Elektronik
+ELM2072,Aydınlatma Tekniği
+ELM3092,Elektrik Makinaları 2
+ELM3182,Güç Elektroniği 2
+ELM3762,Enerji Dağıtımı
+ELM3792,Güç Elektroniği Lab.1
+ELM4042,Yenilenebilir Enerji Sistemleri
+END2982,Üretim Sistemleri
+END3942,Simülasyon
+END3952,Tedarik Zinciri ve Lojistik Yönetimi
+END3962,Üretim Planlama Ve Kontrol
+END4000,Bitirme Çalışması
+END4992,Endüstriyel Yönetim
+FIZ1002,Fizik 2
+FIZ1002,Fizik 2 Türkçe Grupları Ortak Sınav
+FIZ1112,Fizik 2
+FIZ1951,Mühendisler İçin Yarıiletken Fiziği 1
+FIZ3222,Elektronik 1
+FIZ3370,Maddenin Yapısına Giriş
+FIZ3402,Kuantum Fiziği 2
+FIZ3422,İstatistik Fizik
+FIZ4550,X-ışınları
+FIZ4570,Nükleer Veri Toplanması Ve Değerlendirilmesi
+FIZ4620,Fotonik
+FIZ4702,Atom Ve Molekül Fiziği Lab.
+FIZ4820,Çekirdek Fiziği 2
+FVP3711,Deneysel Fotoğraf
+FVP4442,Moda Fotografı
+FVP4451,Fotoğraf Kuramı
+FVP4461,Güncel Fotoğraf Pratiği
+HRT1052,İstatistik
+HRT1112,Mühendislik Hesaplamaları
+HRT1172,Temel Bilgisayar Bilimleri
+HRT1312,Ölçme Bilgisi 1
+HRT3012,Arazi Çalışması
+HRT3432,Coğrafi Bilgi Sistemleri 2
+HRT3512,Kırsal Toprak Düzenlemesi
+HRT3822,Fotogrametri
+HRT4521,Kentsel Toprak Düzenlemesi
+HRT4642,Taşınmaz Geliştirme Uygulaması
+HRT9000,Bitirme Çalışması
+IKT1102,İktisada Giriş 2
+IKT1112,İktisatçılar İçin Matematik 2
+IKT2902,Türkiye İktisat Tarihi
+IKT3362,Uluslararası İktisat 2
+IKT3650,Sürdürülebilir Kalkınma
+IKT3720,Sosyal Tarih
+IKT4402,Türkiye Ekonomisi
+IKT4422,Türkiye Ekonomisinin Analizi
+ILT1622,Sunum Tasarımı
+ILT2612,1950 Sonrası Tas. Tarihi
+ILT3622,Tipografik Animasyon
+ILT4702,Deneysel Tipografi
+ING1342,Sözlü İletişim Becerileri 2
+ING1362,İngilizcenin Yapısı
+ING2342,Dil Edinimi
+ING3322,İngilizce Dil Becerilerinin Öğretimi 2
+ING4212,Proje Seminerleri
+ING4412,Kısa Öykü İncelemeleri
+INS1170,Temel Bilgisayar Bilimleri
+INS2222,Akışkanlar Mekaniği
+INS2322,Mukavemet 2
+INS2512,Yapı Statiği 1
+INS2722,Yapı Malzemeleri
+INS3212,Kentsel Altyapı Sistemlerinin Hidroliği
+INS3442,Demiryolu Mühendisliği
+INS3522,Betonarme I
+INS4121,Çevre Geotekniği
+INS4291,Su Yapıları Tasarımı
+INS4571,Yapı Mühendisliğinde Bilgisayar Uygulamaları
+INS4672,Toplu Taşıma Aktarma Merkezi Tasarımı
+INS4672,Toplu Taşıma Aktarma Merkezi Tasarımı Ortak Grup Türkçe
+INS4691,Betonarme Yapı Tasarımı Ortak Grup Türkçe
+INS4711,Yapılarda Su Yalıtımı
+ISL1171,Genel Muhasebe I
+ISL1552,İşletme Matematiği 2
+ISL2132,Maliyet Muhasebesi
+ISL2442,Ticaret Hukuku
+ISL2452,İşletmeciler İçin İstatistik 2
+ISL2642,Örgütsel Davranış
+ISL2851,Borçlar Hukuku
+ISL3450,Sosyal Medya Pazarlama
+ISL3562,Türk Vergi Sisteminin Esasları
+ISL3662,Finansal Yönetim 2
+ISL3912,İnsan Kaynakları Yönetimi (işletme)
+ISL4000,Bitirme Çalışması
+ISL4250,Sermaye Piyasası ve Analizleri
+ISL4420,Satış Yönetimi
+ISL4582,Nicel Karar Verme Teknikleri 2
+IST1142,İstatistik
+IST1172,Bilimsel Düşünme Ve İstatistik
+IST2022,Matematiksel İstatistik
+IST2082,Biyoistatistik
+IST2142,Veri Tabanı
+IST2162,Mesleki İngilizce 2
+IST3012,Yöneylem Araştırması 1
+IST3050,Anket Düzenleme
+IST3082,İstatistikte Parametre Tahmini Ve Hipotez Testi
+IST3142,Deneysel Tasarım
+IST3152,İstatistik Paket Programları Kullanımı
+IST4122,Zaman Serileri
+IST4322,Uygulamalı Panel Veri Analizi
+IST4412,Veri Madenciliğine Giriş
+IST4512,Robust Tahmin Yöntemleri Ve R Uygulamaları
+ITB2040,Ekonomi Politikaları ve Uygulamaları
+ITB2090,Demokrasi Kültürünün İlke ve Kurumları
+ITB3270,"İstanbul:Dün,Bugün ve Yarın"
+ITB3570,Eğitim Felsefesi
+KIM2512,Analitik Kimya 2
+KIM9000,Bitirme Çalışması
+KOM2722,Nümerik Analiz
+KOM3550,Nesneye Dayalı Programlama
+MAK1052,Teknik Resim Ve Tasarım
+MAK1072,Statik
+MAK2112,Akışkanlar Mekaniği 1
+MAK2122,İmalat Yöntemleri 1
+MAK2132,Makine Mühendisliğinde Sonlu Elemanlar Yöntemi
+MAK2142,Termodinamik 2
+MAK2152,Mühendislikte İstatistik
+MAK2162,Endüstriyel Malzemeler
+MAK2212,Mukavemet 2
+MAK3172,Makine Elemanları 2
+MAK3182,Makine Dinamiği
+MAK3192,Turbo Makineler
+MAK3272,Klima 1
+MAK3372,Hidrolik Makineler
+MAK3462,Demir Esaslı Metallerin Gravite Dökümü
+MAK3502,İmalatta Kalite
+MAK3582,Özel Kaynak Yöntemleri
+MAK3652,Mühendislikte Proje Yönetimi
+MAK4072,Özel Laboratuvar
+MAK4082,Endüstriyel Akustik Ve Gürültü
+MAK4092,Robot Mühendisliğine Giriş
+MAK4192,Enerji Yönetimi 2
+MAK4302,İklimlendirme Sistem Elemanları
+MAK4462,Takım Tezgahları
+MAK4502,Konstrüksiyon Elemanları
+MAK4662,Makine Mühendisliğinde Deneysel Yöntemler
+MAK4922,Arıtma Teknolojileri
+MAK4972,Taşıt Ve Çevre
+MAT1072,Matematik 2 Türkçe Grupları Ortak Sınav
+MAT2092,Cebir 2
+MAT2142,Analitik Geometri 2
+MAT2412,Diferansiyel Denklemler
+MAT3152,Diferansiyel Geometri 2
+MAT3172,Kısmi Diferansiyel Denklemler
+MAT3182,Reel Analize Giriş
+MAT3320,Hilbert Uzaylarına Giriş
+MAT4250,Adi Dif.Denk.Sayısal Çözümleri
+MAT4320,Finans ve Yönetim Matematiği
+MAT4340,Kompleks Fonksiyonlar Teorisi 2
+MIM1042,Statik- Mukavemet
+MIM1062,Bina Bilgisi 2
+MIM1422,Sanat Ve Mimarlık Tarihine Giriş
+MIM2042,Mimarlık Tarihi 2
+MIM2082,Temel Bilgisayar Bilimleri
+MIM2092,Taşıyıcı Sistem Tasarımı 1
+MIM3032,Yapı Çözümlemesi
+MIM3052,Yapı Üretimi
+MIM3062,Mimarlık Tarihi 4
+MIM3142,Engelsiz Mimari
+MIM3540,Mimarlıkta Ölçek Ve Temsil Biçimleri
+MIM3550,Mimarlıkta Kavramlarla Tasarım Düşüncesi
+MIM4161,Konut Ve Kültürel Süreklilik
+MKT1132,Elektrik Devre Temelleri
+MKT2112,Mühendislik Mekaniği 2
+MKT2142,Mukavemet
+MKT2822,Elektronik Ve Haberleşme Devreleri
+MKT3802,Mühendisler İçin İstatistik Ve Deneysel Yöntemler
+MKT3812,Endüstriyel Otomasyon
+MKT3842,Hidrolik - Pnömatik Sistemler
+MKT4111,Mekatronik Sistem Tasarımı
+MKT4802,Lab 4 - Sensörler Ve Aktüatörler
+MTM1502,Analiz 2
+MTM1532,Finans Matematiğine Giriş
+MTM2502,İleri Analiz 2
+MTM2522,Veri Yönetimi Ve Dosya Yapıları 1
+MTM2532,Analitik Geometri
+MTM2592,Olasılık Teorisi
+MTM3502,Kısmi Diferansiyel Denklemler
+MTM3512,Kompleks Analiz 1
+MTM3522,Cebir
+MTM3562,Adi Diferansiyel Denklemlerin Nümerik Çözümleri
+MTM3642,Mvc Tasarım Deseni İle İnternet Programlama
+MTM4502,Optimizasyon Teknikleri
+MTM4522,Fonksiyonel Analize Giriş
+MTM4562,Mesleki Terminoloji
+MTM4592,Bilişim Etiği
+MTM4692,Uygulamalı Sql
+MTP1152,Müzik Tarihi Barok
+MTP1162,Yardımcı Piyano 1
+MTP2162,Yardımcı Piyano 3
+MTP2172,Koro 2
+MTP3152,Müzik Tarihi 1950 Sonrası
+MTP3162,Yardımcı Piyano Bitirme
+MTP4252,Halk Müziği Bilgileri 2
+SBP3172,Kentsel Tasarım
+SBP4912,Planlama 8
+SBU1032,Türkiyenin Toplumsal Yapısı
+SBU2502,Siyaset Kuramı II
+SBU2572,Sanat Ve Siyaset
+SBU3102,Uluslararası İlişkiler 2
+SBU3124,Propaganda Ve Sosyal Medya
+SBU3202,Karşılaştırılmalı Siyaset
+SBU3302,Türkiye Siyaseti 2
+SBU3402,Devletler Hukuku 2
+SBU4101,Avrupa Birliği Ve Türkiye
+SBU4122,Uluslararası İlişkilerde Güncel Konular
+SBU4222,Türkiyenin Dış Politikası 2 (2021)
+SYP1422,Sanatçı Hakları
+SYP2131,Türk Ve Osmanlı Sanatı
+SYP3252,Atölye 2
+SYP3352,Türk Sanatında Motif Ve Tasarım
+SYP4492,Müze Mevzuatı
+BLM1011,Bilgisayar Bilimlerine Giriş
+BLM1991,İş Sağlığı Ve Güvenliği 1
+BLM2011,İstatistik Ve Olasılık Hesapları
+BLM2611,Lojik Devreler
+BLM3011,İşletim Sistemleri
+BLM4520,Yapay Sinir Ağlarına Giriş
+BLM4991,Çok Disiplinli Tasarım Projesi
+BSP1101,Temel Tasarım 1
+BSP1231,Temel Modlaj Atölyesi 1
+BSP1301,Desen 1
+BSP2161,Desen 1
+BSP2231,Sanat Atölyesi I
+BSP2412,Kolaj-asamblaj
+BSP2431,Üç Boyutlu Sanat Atölyesi 1
+BSP2441,Modern Sanat Manifestoları
+BSP2451,Baskı Resim-1
+BSP2541,Sanat Terminolojisi
+BSP3011,Üç Boyutlu Sanat Atölyesi 3
+BSP3231,Sanat Atölyesi III
+BSP3311,Çağdaş Sanat Estetiği
+BSP3361,Yeni Medya Sanatı Ve Kökenleri
+BSP3992,Deneysel Kil Atölyesi
+BSP4221,Üç Boyutlu Sanat Atölyesi 5
+BSP4231,Sanat Atölyesi V
+BSP4241,Açık Alan Uygulamaları
+BTO1101,Bilişim Ve Matematik
+BTO1111,Eğitimde Bilgi Teknolojileri
+BTO1121,Öğretim Teknolojilerinin Temelleri
+BTO1810,Öğretim Teknolojileri
+BTO1911,Bilişim Teknolojileri
+BTO2101,Bilişim Sistemleri Donanımı
+BTO2121,Temel Programlama
+BTO2140,Eğitsel Oyun Ve Oyunlaştırma
+BTO2141,Eğitimde Grafik Ve Canlandırma
+BTO2161,Öğretim Tasarımı
+BTO2190,Medya Okuryazarlığı
+BTO2903,Fizik 1
+BTO2910,Medya Okuryazarlığı
+BTO3052,Çoklu Ortam Tasarımı ve Üretimi
+BTO3062,Veri Tabanı Yönetim Sistemleri
+BTO3101,Eğitimde Modelleme Ve Tasarım
+BTO3121,Web Tabanlı Programlama
+BTO3131,Bilişim Öğretim Programları
+BTO3151,Uzaktan Eğitim
+BTO3211,İşletim Sistemleri Ve Uygulamaları
+BTO3921,Mesleki İngilizce 2
+BTO4131,Eğitimde Yapay Zeka Uygulamaları
+BYM1201,Biyomühendisliğe Giriş
+BYM2101,Moleküler Biyolojinin Temel Prensipleri
+BYM2201,Biyomedikal Elektronik
+BYM2222,Hücre Biyolojisi Ve Hücresel Mekanizmalar
+BYM2301,Modern Biyolojiye Giriş
+BYM2311,İş Sağlığı Ve Güvenliği 2
+BYM2321,Biyomühendislikte Biyokimya
+BYM2711,Biyotermodinamik
+BYM3331,Biyomühendislikte Mikrobiyoloji
+BYM3361,Genetik Kavramlar
+BYM3401,Biyomühendislikte Ayırma İşlemleri
+BYM3511,Genetik Mühendisliği
+BYM3521,Biyoenstrümental Teknikler
+BYM3602,Enzim Teknolojisi
+BYM3651,Biyopolimerlerin Esasları
+BYM3901,Biyomühendislikte Isı Transferi
+BYM3911,Biyomühendislikte Kütle Transferi
+BYM4000,Bitirme Çalışması
+BYM4081,Biyomühendislikte Matematiksel Modelleme
+BYM4191,Fizyoloji
+BYM4241,Biyomühendislik Laboratuvarı 1
+BYM4321,Kontrollü Salım Sistemleri
+BYM4451,Biyoteknoloji Ve Biyogüvenlik
+BYM4691,Biyokimyasal Mühendislik
+BYM4721,Biyomühendislikte Nanoteknoloji
+BYM4741,Biyoproses Mühendisliği
+BYM4851,Çevre Mikrobiyolojisi
+CEV1001,Çevre Mühendisliğine Giriş
+CEV1121,Rapor Yazma Ve Sunum Teknikleri
+CEV2201,Çevre Kimyası 1
+CEV2231,İstatistik
+CEV2241,Çevre Müh. Akışkanlar Mekaniği
+CEV3001,Katı Atıklar
+CEV3071,Kimyasal Temel İşlemler
+CEV3111,Fiziksel Temel İşlemler
+CEV3301,Su Temini
+CEV3321,Hava Kirliliği
+CEV4000,Bitirme Çalışması
+CEV4001,Tasarım Projesi
+CEV4041,Endüstriyel Kirlenme Kontrolü
+CEV4111,Çevre Ve Halk Sağlığı
+CEV4141,Yenilenebilir Enerji Sistemleri
+CEV4151,Hava Kirliliği Meteorolojisi
+CEV4171,Katı Atık Geri Kazanma Sistemleri
+CEV4181,Temiz Üretim Teknolojileri
+CEV4351,Endüstriyel Hava Kirliliği Kontrolü
+CEV4452,Atık Yönetimi Ve Geri Dönüşüm
+DTP2511,Temel Biçimler İçin Kompozisyon
+DTP2521,Midi Sentezleyiciler Ve Sentezleme Teknikleri
+DTP2811,Armoni 1
+DTP2861,Kontrpuana Giriş
+DTP3521,Mastering
+DTP3561,Müzik Yazısı Yöntemleri
+DTP3801,Solfej 5
+DTP3811,Armoni 3
+DTP3821,Uzmanlık Alan Semineri 3
+DTP3831,Form Bilgisi 1
+DTP4000,Bitirme Çalışması
+DTP4511,Geniş Çalgı Toplulukları İçin Kompozisyon
+DTP4521,Etkileşimli Elektronik Müzik Tasarımı
+DTP4550,Müzik Aritmetiği- Tamperemanlar
+DTP4811,Armoni 5
+DTP4821,Uzmanlık Alan Projesi
+EHM2121,Devre Ve Sistem Analizi
+EHM2131,Elektromagnetik Alan Teorisi
+EHM2151,Yarıiletken Fiziği
+EHM2171,Elek. Devre Temelleri Lab.
+EHM3151,Elektronik Devreler 1 Lab.
+EHM3161,İleri Elektronik Uygulamaları
+EHM3171,Devre Sentezi
+EHM3731,Haberleşme Ağları
+EHM4260,Veri Haberleşmesi
+EHM4820,Mikrodenetleyiciler
+ELM1031,Mühendislik Matematiği
+ELM2010,Elektrik Makinalarının Temelleri
+ELM2040,Metroloji
+ELM3071,Güç Elektroniği 1
+ELM4020,Esnek Ac İletim Sistemlerine Giriş
+ELM4040,Alternatif Enerjiler Ve Modellenmesi
+ELM4061,Mühendislik Tasarımı
+ELM4070,Mikroişlemci Tabanlı Sistem Tasarımı
+ELM4080,Akıllı Ev Ve Enerji Yönetimi
+ELM4090,Elektrik Mak.bilg.destekli Tasarımı
+ELM4290,Topraklama
+ELM4302,Endüstri 4.0 Ve Elektrik Mühendisliğinde Uygulamalar
+ELM4411,Yenilenebilir Enerji Sis.lab.
+ELM4500,Elektrik Tesislerinde Koruma Tekniği
+ELM4900,Elektrik Mühendisliğinde Bilgisayar Uygulamaları
+ELM4930,Elektrik Şalt Tesisleri
+END1902,Bilgisayar Destekli Teknik Resim
+END1991,Endüstri Mühendisliğine Giriş
+END2961,Ekonomi
+END2971,İleri Bilgisayar Programlama
+END2981,Üretim Yöntemleri
+END2991,Olasılık
+END3401,İş Etüdü
+END3760,Çizelgeleme
+END3930,Karar Destek Sistemleri
+END3940,Çok Kriterli Karar Verme
+END3971,Yapay Zeka Ve Uzman Sistemler
+END3981,Mühendislik Ekonomisi
+END3991,Yöneylem Araştırması 2
+END3992,Endüstri Müh. Tasarım 1
+END4370,Stratejik Yönetim
+END4480,İşletmelerde Verimlilik
+END4490,Yenilikçilik Ve Girişimcilik
+END4661,Finansal Yönetim
+END4690,Güvenilirlik Mühendisliği
+END4810,Envanter Modelleri
+END4990,İstatistiksel Kalite Kontrol
+FBO1012,Genel Fizik 2
+FBO1061,Fizik 1
+FBO1071,Kimya 1
+FBO1091,Genel Matematik 1
+FBO2010,Bilim Tarihi Ve Felsefesi
+FBO2011,Genel Biyoloji 1
+FBO2040,Fen Bilgisi Öğretiminde Kavram Yanılgıları
+FBO2041,Genel Fizik Lab. 3
+FBO2050,Fen Öğretiminde Materyal Tasarımı
+FBO2070,İnsan Anatomisi Ve Fizyolojisi
+FBO2111,Fizik 3
+FBO2120,Yenilenebilir Enerji Kaynakları
+FBO2121,Kimya 3
+FBO2131,Biyoloji 2
+FBO2171,Fen Öğrenme Ve Öğretim Yaklaşımları
+FBO3021,Fizikte Özel Konular
+FBO3031,Kimyada Özel Konular
+FBO3081,Fen Öğretimi 1
+FBO3091,Fen Öğretimi Laboratuvar Uygulamaları 1
+FBO3101,Astronomi
+FBO3141,İstatistik
+FBO4111,Biyolojide Özel Konular
+FBO4121,Evrim
+FIZ1001,Fizik 1 İngilizce Grupları Ortak Sınav
+FIZ1121,Mesleki İngilizce 1
+FIZ2152,Klasik Mekanik
+FIZ2271,Fizik Laboratuvarı 2
+FIZ3270,Maddenin Elektrik Ve Manyetik Özelliklerine Giriş
+FIZ3340,Astrofizik
+FIZ3420,Nanoteknoloji 1
+FIZ3421,Termodinamiğe Giriş
+FIZ3520,Fiziğin Tarihsel Gelişimi
+FIZ4790,"Sıvı Kristallerin Yapıları, Özellikleri Ve Uygulamaları"
+FIZ4810,Elektronik 2
+FIZ9000,Bitirme Çalışması
+FVP1131,Karanlık Oda Teknikleri
+FVP1141,Fotograf Bilgisi 1
+FVP2101,Stüdyo 1
+FVP2111,Sayısal Fotoğraf 1
+FVP2131,Video Uygulama 1
+FVP2141,Mesleki Temel Eğitim
+FVP2151,Belgesel Fotograf
+FVP2401,Görsel Kültür
+FVP2411,Sinema Ve Tv Tarihi
+FVP2440,Fotoğraf ve Sanat
+FVP2471,Fotografik Optik Ve Görsel Algı
+FVP2901,Medya Kuramları
+FVP3121,İleri Çekim Teknikleri
+FVP3131,Fotograf Tarihi 1
+FVP3141,Görüntü İşleme
+FVP3151,Fotograf Ve Video Uygulamaları 1
+FVP3161,Tv Program Türleri
+FVP3411,Belgesel Yapım
+FVP3421,Endüstri Fotografı
+FVP3721,Aydınlatma Estetiği
+FVP3911,Mesleki Terminoloji 2
+FVP4111,Basım-çoğaltım
+FVP4301,Fotograf Ve Video Uygulamaları 3
+FVP4401,Sunuş Yöntemleri
+GDM1011,Gıda Mühendisliğine Giriş
+GDM2091,Kütle Ve Enerji Denklikleri
+GDM2101,Gıda Kimyası Ve Biyokimyası 1
+GDM2131,Gıda Mühendisliğinde Mesleki İngilizce
+GDM2151,Gıda Ekonomisi
+GDM2181,Genel Mikrobiyoloji
+GDM3051,Mühendislik Çalışmalarında İstatistiksel Yöntemler
+GDM3211,Enstrümental Analizler
+GDM3231,Gıda Mühendisliğinde Temel İşlemler 1
+GDM3241,Gıda Biyoteknolojisi
+GDM3251,Isı Ve Kütle Aktarımı
+GDM3261,Reaksiyon Kinetiği
+GDM4041,Bitkisel Yağ Teknolojisi
+GDM4101,Gıda Ürünlerinin Geliştirilmesi
+GDM4111,Gıda Analizleri Ve Teknoloji Laboratuvarı 2
+GDM4121,Gıda Mühendisliğinde Tasarım
+GDM4151,Meyve Ve Sebze İşletme Teknolojisi
+GDM4171,Fermentasyon Teknolojisi
+GDM4181,Gıdalardaki Fonksiyonel Bileşikler
+GDM4191,Tahıl Ve Ürünleri Teknolojisi
+GDM4201,Duyusal Analiz
+GDM9000,Bitirme Çalışması
+GRA1011,Temel Tasarım 1
+GRA1021,Fotoğraf 1
+GRA1031,Desen 1
+GRA1041,Bilgisayar Destekli Tasarım 1
+GRA2011,Grafik Tasarımı 1
+GRA2021,Arayüz Tasarımı 1
+GRA2031,Tipografi 1
+GRA2041,Grafik Tasarım Tarihi 1
+GRA2051,İllüstrasyon 1
+GRA2110,Ambalaj Tasarımı
+GRA2160,Yönlendirme Tasarımı
+GRA2220,Göstergebilim
+HRT1011,Harita Mühendisliğine Giriş
+HRT1021,Teknik Resim Ve Tasarı Geometri
+HRT2142,Dengeleme Hesabı
+HRT2331,Ölçme Bilgisi 2
+HRT3221,Bilimsel Araştırmaya Giriş
+HRT3350,Topografya
+HRT4131,Görüntü Analizi
+HRT4262,Uzaktan Algılama Sistemleri
+HRT4281,Karar Destek Sistemleri
+HRT4331,Özel Ölçmeler
+HRT4351,Deformasyon Ölçmeleri
+HRT4441,Web Cbs Ve  Kartografya
+HRT4492,Arazi Bilgi Yönetim Sistemleri
+HRT4531,Arazi Yönetimi 1
+HRT5004,Araştırma Yöntemleri ve Bilimsel Etik
+HRT5101,Jeodezik Altyapı
+HRT5102,Çoklu-GNSS Ağları ve Sürekli Çalışan Referans İstasyonları (CORS)
+HRT5108,İleri Hidrografik Ölçmeler
+HRT5113,Kadastroda İleri Teknikler 
+HRT5128,Zamansal Tapu-Kadastro Bilgi Sistemleri
+IKT1101,İktisada Giriş 1
+IKT2211,İstatistik 1
+IKT2222,İktisadi Sistemler
+IKT3610,Enerji Ve Doğal Kaynaklar Ekonomisi
+IKT3630,Uluslararası Entegrasyon
+IKT3680,Ab Ekonomisi
+IKT3730,Finans Tarihi
+IKT3770,Kamu Maliyesi
+IKT3820,Sosyal Politikalar İktisadi
+IKT4610,Teknoloji Ve Ekonomi
+IKT4650,İktisadi Modeller Ve Programlama
+IKT4660,Bankacılık Ve Finansal Kurumlar
+IKT4680,Büyüme Ekonomisi
+IKT4690,Finansal Kriz Kuramları
+IKT4710,Endüstriyel Organizasyon
+IKT4720,Oyun Teorisi
+IKT4730,Sosyal Ve Ekonomik Ağlar
+ILT1611,Fotoğraf Teknikleri
+ILT1621,Grafik Tasarım Araçları
+ILT2601,Projeye Giriş
+ILT2611,1950 Öncesi Tas.Tarihi
+ILT2651,İnteraktif Tasarım Araçları
+ILT2661,Simge Tasarımı
+ILT2701,Algoritmanın Temelleri
+ILT2711,Tasarımda Eskizleme Yön.
+ILT2721,Tipografi
+ILT2731,Senaryo Yazımı
+ILT2750,Görsel-işitsel Dijital Enformasyonun Etmenleri
+ILT3501,Animasyon Tasarımı
+ILT3651,Proje 2
+ILT3661,Kullanılabilirlik Temelleri
+ILT3671,Enformasyon Tasarımı
+ILT3711,3B Modelleme
+ILT3721,Video Kurgu Ve İşleme Teknikleri
+ILT3801,İleri Görüntü İşleme Teknikleri
+ILT3811,Tasarım Teorisi
+ILT3931,Tasarım İçin İngilizce
+ILT4701,Medya Planlaması
+ILT4750,Bilişim Teknolojilerinde Seçilmiş Konular
+ILT4801,Sinemada Yaratıcılar Ve Akımlar
+ING1000,Hazırlık Dilbilgisi Becerileri
+ING1001,Hazırlık Yazma Becerileri
+ING1002,Hazırlık Okuma Becerileri
+ING1003,Hazırlık Dinleme Becerileri
+ING1004,Hazırlık Konuşma Becerileri
+ING1111,Bağlamsal Dilbilgisi 1
+ING1311,Okuma Becerileri 1
+ING1321,Yazma Becerileri 1
+ING1331,Dinleme Ve Sesletim 1
+ING1341,Sözlü İletişim Becerileri 1
+ING2060,İngilizce Öğretiminde Materyal Tasarımı
+ING2120,Kitle İletişiminde İngilizce
+ING2140,Sosyodilbilim Ve Dil Öğretimi
+ING2151,İngilizce- Türkçe Çeviri
+ING2161,Anlatım Becerileri
+ING2170,Mesleki İngilizce
+ING2311,İngilizce Öğrenme Ve Öğretim Yaklaşımları
+ING2331,Dilbilimi 1
+ING2341,Eleştirel Okuma Ve Yazma
+ING3121,Özel Öğretim Yöntemleri II
+ING4121,Yabancı Dil Öğretiminde Materyal İnceleme Ve Geliştirme
+INS1011,İnşaat Mühendisliğine Giriş
+INS1322,Statik
+INS2731,Malzeme Bilimi Ve Mühendisliği
+INS3572,Köprüler
+INS3692,Yapı Statiği 3
+INS3921,Mühendislik Ekonomisi
+INS4111,Geoteknik Uygulamaları
+INS4131,İstinat Yapıları Tasarımı
+INS4281,Su Temini Ve Atık Su Sistemleri Tasarımı
+INS4481,Demiryolu Tasarımı
+INS4522,Çelik Yapıların Plastik Hesabı
+INS4631,Çelik Yapı Tasarımı
+INS4632,Betonarme Yapılar Ve Temel Tasarımı 
+INS4672,Toplu Taşıma Aktarma Merkezi Tasarımı 
+INS4901,İş Sağlığı Ve Güvenliği 1
+INS5508,Ulaştırma Ekonomisi
+INS5511,Ulaştırma Planlaması-I 
+INS5514,Akıllı Ulaştırma Sistemleri Uygulaması
+INS6107,Geoteknik Mühendisliğinde Aletsel Gözlem ve Arazi Ölçümleri
+ISL1181,İşletme Matematiği 1
+ISL1622,Davranış Bilimleri
+ISL1711,Hukukun Genel Kavramları
+ISL2132,ISL2132 - MEZUNIYET MAZERET - TR - Maliyet Muhasebesi
+ISL2170,Muhasebe Organizasyonu
+ISL2481,Temel İşletme Yönetimi
+ISL2560,Halkla İlişkiler
+ISL2731,Araştırma Yöntemleri
+ISL2742,Sosyal Bilimlerde İstatistik Uygulamaları
+ISL3040,Örgütlerde Takım Oluşturma Ve Geliştirme
+ISL3051,Mesleki İngilizce 2
+ISL3182,Muhasebe Denetimi
+ISL3411,Pazarlama
+ISL3530,Reklam Hukuku
+ISL3531,Davranışsal Açıdan Sürdürülebilirlik
+ISL3541,Faizsiz Finans
+ISL3620,Örgüt Geliştirme
+ISL3660,İşletmelerde İletişim
+ISL3770,Yatırım Analizi Ve Portföy Yönetimi
+ISL3862,İş Hukuku
+ISL3972,İş Sağlığı Ve Güvenliği Hukuku
+ISL4051,İşletmelerde Güncel Sorunlara Çözüm Seminerleri 2
+ISL4140,Hizmet Pazarlaması
+ISL4431,Elektronik Ticaret
+ISL4560,İnsan Kaynakları Yönetiminde Güncel Konular
+ISL4611,Örgütsel Etik
+ISL4650,Uluslararası Yönetim
+ISL4692,Stratejik İşletme Yönetimi
+ISL4910,Reklam Yönetimi
+ISL4931,Maliyet Sistemleri
+IST1131,Olasılığa Giriş
+IST1141,İstatistiğe Giriş
+IST1870,Uygulamalı Bilimler İçin İstatistik
+IST1932,İstatistik
+IST2041,İstatistikçiler İçin Ana İşletmecilik Bilgileri
+IST2081,Örnekleme 1
+IST2121,Matematiksel İstatistiğe Giriş
+IST2131,Bilgisayar Programlama
+IST3011,Optimizasyon
+IST3060,Bayesgil İstatistik
+IST3121,Regresyon Analizi 1
+IST3141,Parametrik Olmayan İstatistiksel Yöntemler
+IST3160,Aktüeryaya Giriş
+IST4000,Bitirme Çalışması
+IST4120,Pazar Araştırma Teknikleri
+IST4130,Web Programlama
+IST4131,Ekonometri
+IST4140,Bulanık Mantık
+IST4171,Veri Sınıflandırma Yöntemleri
+IST4220,İstatistiksel Kalite Kontrol
+IST4241,Deneysel Tasarım 2
+ITB1680,Çok Sesli Müziğe Giriş
+ITB3130,Siyasal İdeolojiler: Kuram ve Tarih
+ITB3220,Modernite ve Tüketim Toplumu
+ITB3550,İnsan Hakları
+KIM1131,Temel Bilgisayar Bilimleri
+KIM1170,Genel Kimya İngilizce Grupları Ortak Sınav
+KIM1501,Genel Kimya 1
+KIM1511,Genel Kimya 1
+KIM1611,İş Sağlığı Ve Güvenliği 1
+KIM1621,Genel Kimya Lab.1
+KIM1701,Genel Kimya 1
+KIM2301,Analitik Kimya
+KIM2532,Fizikokimya 2
+KIM2541,Analitik Kimya Lab. 1
+KIM2542,Analitik Kimya Lab. 2
+KIM2551,Anorganik Kimya Lab. 1
+KIM2571,Kimya Tarihi
+KIM2591,Çevre Kimyası Ve Teknolojisi
+KIM2601,Kimyacılar İçin Matematik
+KIM3421,Biyokimya 1
+KIM3431,Fizikokimya 3
+KIM3442,Organik Kimya 2
+KIM3451,Fizikokimya Lab. 2
+KIM3491,Korozyon Kimyası
+KIM3501,Kalite Güvencesi Ve Standartları
+KIM4331,Organik Analiz Ve Yapı Tayini
+KIM4341,Kozmetik Kimyası Ve Üretimi
+KIM4451,Yem Kimyası
+KIM4461,Gıda Katkı Maddeleri Ve Analiz Yöntemleri
+KIM4471,Mesleki İngilizce
+KIM4491,Reaksiyon Kinetiği
+KIM4541,Sentetik Biyopolimerlere Giriş
+KIM4561,Biyoteknolojik Yöntemler
+KIM4801,Biyokimya 3
+KIM4921,Organik Kimya 3
+KIM4931,Organik Kimya Lab. 2
+KMM1041,Kimya Mühendisliğine Giriş
+KMM2601,İş Sağlığı Ve Güvenliği 1
+KMM2611,Kimya Mühendisliği Hesaplamaları
+KMM2621,Mühendisler İçin Fiziksel Kimya
+KMM3501,Girişimcilik Ve Proje Yönetimi
+KMM3511,Sayısal Analiz
+KMM3521,Kimya Mühendisleğinde Isı Aktarımı
+KMM3531,Kimya Mühendisliği Termodinamiği 2
+KMM3541,Kütle Aktarımı
+KMM3551,Çevre Teknolojisi
+KMM3561,Teknik İletişim
+KMM3571,Yakıtlar Ve Yakıt Teknolojileri
+KMM3581,Enerji Tasarrufu
+KMM3591,Kimya End. Analiz Yöntemleri
+KMM3611,Kimya End. Kalite Kontrol
+KMM4000,Bitirme Çalışması
+KMM4601,Kimya Mühendisliği Lab 2
+KMM4611,Kimya Mühendisliğinde Proses Tasarımı-1
+KMM4621,Kimyasal Reaktör Tasarımı
+KMM4631,Proses Dinamiği Ve Kontrol
+KMM4641,Atık Geri Dönüşümü
+KMM4651,Biyokimya Mühendisliği Esasları
+KMM4671,Kimya Mühendisliği Ekonomisi
+KMM4711,Elektrokimyasal Prosesler
+KMM4721,Kimya Mühendisliğinde Optimizasyon
+KMM4731,Membran Ve Membran Prosesleri
+KMM4741,Yeni Ve Yenilenebilir Enerji Sis. Ts.
+KOM1021,Lineer Cebir Ve Kontrol Mühendisliği Uygulamaları
+KOM1061,Kontrol Ve Otomasyon Müh. Giriş
+KOM1991,İş Sağlığı Ve Güvenliği 1
+KOM2072,Devre Analizi Ve Sentezi
+KOM2512,Kısmi Türevli Diferansiyel Denklemler Ve Uygulamaları
+KOM2532,Elektromanyetik Alan Teorisi
+KOM2711,"İşaret Ve Sistemler, Kontrol Mühendisliğinde Uygulamaları"
+KOM2721,Elektrik Devre Temelleri
+KOM2731,Kontrol Sistemleri Ölçme Ve Algılayıcılar
+KOM2751,Analog Elektronik
+KOM3510,Mekatronik
+KOM3511,Analog Elektronik Laboratuvarı
+KOM3521,Sayısal Elektronik Laboratuvarı
+KOM3531,Kontrol Sistemleri Ölçme Ve Algılayıcılar Lab.
+KOM3610,Güç Elektroniği
+KOM3751,Kontrol Sistemleri
+KOM3761,Elektrik Makineleri
+KOM3771,Endüstriyel Otomasyon Sistemleri 1
+KOM3781,Ayrık Zamanlı Kontrol Sistemleri
+KOM4221,Kontrol Laboratuvarı
+KOM4321,Tasarım Projesi
+KOM4421,Endüstriyel Otomasyon Sistemleri Laboratuvarı 2
+KOM4521,Çok Değişkenli Kontrol Teorisi
+KOM4540,Ulaşım Sistemlerinde Otomasyon
+KOM4560,Optimal Kontrole Giriş
+KOM4570,Sistem Tanıma
+KOM4580,Doğrusal Olmayan Sistemlere Giriş
+KOM4670,Mikrokontrolörler Ve Endüstriyel Uygulamaları 2
+KOM4991,Çok Disiplinli Tasarım Projesi
+KOM5106,Sistem Analiz Teknikleri
+KOM5108,Dinamik Sistemler İçin İleri Kontrol Yöntemleri
+KOM5110,Frekans Tabanlı Sistem Tanıma
+KOM5111,Otomasyon Sistemlerinde Veri Haberleşmesi
+KOM5113,Ayrık Olay Sistemlerinin Kontrolu ve Otomasyonu 
+KOM9000,Bitirme Çalışması
+KVK1011,Koruma Ve Onarıma Giriş
+KVK1021,Teknik Resim
+KVK1031,Arkeolojiye Giriş
+KVK1041,Bezeme Teknikleri 1
+KVK1051,İş Sağlığı Ve Güvenliği 1
+KVK2011,Kültür Varlıklarını Belgeleme Ve Koruma 1
+KVK2021,Koruma Kimyası 1
+KVK2031,Mimarlık Tarihine Giriş
+KVK2041,Alçı Bezeme Koruma Ve Onarım
+KVK2051,Geleneksel Yapı Teknolojisi Ve Elemanları 1
+KVK2061,Fotoğrafla Belgeleme
+KVK2131,Müzelerde Risk Yönetimi
+KVK2141,Mobilya Tarihi
+KVK3011,Kültür Varlıklarını Belgeleme Ve Koruma 3
+KVK3021,Keşif Ve Metraj
+KVK3031,Metal Koruma Ve Onarım
+KVK3041,Kalemişi Koruma Ve Onarım
+KVK3211,Arkeometriye Giriş
+MAK2100,Makine Teknolojisi Tarihi
+MAK2101,Sayısal Yöntemler
+MAK3071,Sistem Dinamiği Ve Simulasyon
+MAK3191,Gaz Tesisatı
+MAK3201,Soğutma Tekniği
+MAK3281,Motorlar
+MAK3301,Akışkanlar Mekaniği 2
+MAK3401,Katı Modelleme Ve Hızlı Prototipleme
+MAK3431,Demir Dışı Metallerin Basınçlı  Dökümü
+MAK3441,Kaynak Tekniği
+MAK3451,Talaşlı İmalat
+MAK3461,Talaşsız Şekil Verme Mekaniği
+MAK3471,Taşıt Sistemleri
+MAK3561,Taşıtlarda Algılayıcılar ve Aktüatörler
+MAK3671,Tribolojinin Prensipleri Ve Uygulamaları
+MAK3681,İklimlendirmede Yalıtım Sistemleri
+MAK3691,İç Hava Kalitesi Ve Tesisatta Hijyen
+MAK4241,Proses Kontrol 1
+MAK4251,Klima 2
+MAK4261,Güneş Enerjisi Ve Isı Pompası Sistemleri 1
+MAK4401,Hidrolik Pnömatik Sistemler
+MAK4461,Gaz Türbinleri
+MAK4481,Tasarım Tekniği 2
+MAK4491,Transport Tekniği 1
+MAK4541,Eklemeli İmalat
+MAK4571,Motor Konstrüksiyonu
+MAK4601,Enerji Yönetimi 1
+MAK4661,Termik Proses Tekniği 1
+MAK4801,İklimlendirme Sistemlerinde Yenilenebilir Enerji Kullanımı
+MAK4891,Mühendislik Sistemlerinin Modellenmesi Ve Simulasyonu
+MAK4921,Dıesel Motor Teknolojisi
+MAK4931,Taşıtlarda Tahrik Dinamiği Ve Güç Aktarma Sistemleri
+MAT1001,Matematik 1
+MAT1002,Matematik 2
+MAT1071,Matematik 1 İngilizce Grupları Ortak Sınav
+MAT1141,Matematik Analiz 1
+MAT1151,Lineer Cebir 1
+MAT1161,Soyut Matematik
+MAT1171,Bilgisayar Programlamaya Giriş
+MAT1320,Lineer Cebir İngilizce Grupları Ortak Sınav
+MAT1341,Matematik I
+MAT2001,Matematik Analiz 3
+MAT2041,Matematik Analiz 3
+MAT2091,Cebir 1
+MAT2131,Lineer Programlama
+MAT2141,Analitik Geometri 1
+MAT2171,Diferansiyel Denklemler 1
+MAT2411,Diferansiyel Denklemler İngilizce Grupları Ortak Sınav
+MAT3171,Topolojiye Giriş
+MAT3220,Kodlama Teorisine Giriş
+MAT3240,Yöneylem Araştırması
+MAT3260,Şifrelemeye Giriş
+MAT4350,Normlu Uzaylarda Sayısal Bölgeler
+MAT4360,Dönüşümler Ve Geometriler
+MAT4410,Halkalar Ve Modüller
+MAT4440,Pozitif Operatörlere Giriş
+MAT4540,Matematik Tarihi
+MAT6102,C*- Cebirleri
+MAT6104,Cebirsel Sayılar Teorisi
+MAT6111,Grup Teori
+MAT6114,İleri Diferensiyel Geometri 
+MAT9000,Bitirme Çalışması
+MBG1011,Genel Biyoloji 1
+MBG1031,Biyoloji
+MBG2041,Organik Kimya I
+MBG2042,Organik Kimya 2
+MBG2211,Genetik 1
+MBG2221,Mikrobiyoloji
+MBG2231,Hücre Biyolojisi
+MBG2241,İş Sağlığı Ve Güvenliği 1
+MBG3011,Biyokimya 1
+MBG3051,Mesleki İngilizce 1
+MBG3071,Biyoetik
+MBG3094,İmmunoloji
+MBG3321,Moleküler Biyoloji 1
+MBG3331,İnsan Genetiği
+MBG3341,Bitki Fizyolojisi
+MBG4041,Protein Kimyası
+MBG4052,Enzimoloji
+MBG4061,Bitki Kimyası
+MBG4071,Nanobiyoteknoloji
+MBG4082,Tıbbi Genetik Uygulamaları
+MBG4411,Bitki Moleküler Biyolojisi
+MBG4421,Biyoinformatik
+MBG4431,Biyoteknolojiye Giriş
+MIM1011,Mimari Tasarıma Giriş
+MIM1012,Mimari Tasarım 1
+MIM1032,Yapı Malzemesi
+MIM1041,Temel Tasar
+MIM1412,Uygarlık Tarihi
+MIM2011,Mimari Tasarım 2
+MIM2012,Mimari Tasarım 3
+MIM2071,Mimarlık Tarihi 1
+MIM2201,İş Sağlığı Ve Güvenliği 1
+MIM2680,Ünlü Mümarlar Ve Seyahat Rotaları
+MIM3010,İstanbul Sayfiyelerinin Mekansal Değişimi
+MIM3031,Yapı Fiziği 1
+MIM3172,Tarihi Bahçeler
+MIM3221,Mekanın Üretim Ve Tüketim Süreci
+MIM3232,Isı-nem
+MIM3272,Yapılarda Gazbeton Uygulamaları
+MIM3281,Çelik Yapı Tasarımı
+MIM3321,Kent Arkeolojisi
+MIM3361,Mimarlıkta Topografik Ölçme Bilgisi
+MIM3362,Mimarlık Ve Planlamada Aplikasyon
+MIM3531,"Mimari Tasarım, Kültür, Bağlam"
+MIM4031,Yapım Yönetimi Ve Ekonomisi
+MIM4051,Koruma Restorasyon
+MIM4131,Mimari Animasyon
+MIM4151,Mevcut Çevrelerde Yeni Yapı Tasarımında Mimari Yaklaşımlar
+MIM4322,Batılılaşma Dönemi İstanbul
+MIM4341,Sinemada Mekan Ve Tarih
+MKT1111,Bilgisayar Destekli Tasarım
+MKT1801,İş Sağlığı Ve Güvenliği 1
+MKT1821,Mekatronik Mühendisliğine Giriş
+MKT2161,Mühendislik Mekaniği 1
+MKT2831,Lab 2 - Elektrik Ve Elektronik
+MKT3871,Proses Tekniği
+MKT4000,Bitirme Çalışması
+MKT4811,Yapay Zekaya Giriş
+MKT4813,Sistem Analizi Ve Tasarımı
+MKT4827,Güç Elektroniği
+MKT4831,Robot Mühendisliği
+MKT4835,Endüstriyel Ölçme Sistemleri
+MKT5112,Lineer Sistem Teorisi
+MTF1111,Çeviriye Giriş 1
+MTF1121,Fransızca Yazılı Anlatımı Geliştirme 1
+MTF1131,Zorunlu Yabancı Dil 1
+MTF1132,Zorunlu Yabancı Dil 2
+MTF1382,Sözlü Söylem Çözümlemesi Ve İfade
+MTF1391,Söylem Ve Çeviri
+MTF2051,Çeviri Tarihi
+MTF2111,Dilbilimin Temel Kavramları
+MTF2121,Fransız Yazın Ve Uygarlığı 2
+MTF2131,Zorunlu Yabancı Dil 3
+MTF2132,Zorunlu Yabancı Dil 4
+MTF2141,Teknik Çeviri 1
+MTF2151,Tr- Fr. Çeviri Çalışmaları 1
+MTF2381,Sözlü Çeviride Not Alma Teknikleri
+MTF2391,Teknik Metin Yazarlığı
+MTF2411,İtalyanca 1
+MTF2431,Almanca 1
+MTF3211,Yazınsal Çeviri 1
+MTF3311,Fransız Yazını Ve Uygarlığı 4
+MTF3321,Sözlü Çeviri 1
+MTF3331,Zorunlu Yabancı Dilde Çeviri 1
+MTF3341,Teknik Çeviri 3
+MTF3411,İtalyanca 3
+MTF3431,Almanca 3
+MTF3991,Mesleki Deneyim 1
+MTF4211,Toplumbilim Ve Çeviri
+MTF4391,Polisiye Edebiyat Ve Çeviri
+MTF4411,İtalyanca 5
+MTF4431,Almanca 5
+MTF4451,Teknik Çeviri 5
+MTF4461,Yazılı Çeviri Eleştirisi
+MTF4471,Zorunlu Yabancı Dilde Çeviri 3
+MTF4991,Mesleki Deneyim 2
+MTM1501,Analiz 1
+MTM1511,Programlama Dilleri 1
+MTM1561,Matematik Mühendisliğine Giriş
+MTM2511,Algoritmalar Ve Veri Yapıları
+MTM2521,Nümerik Analiz 1
+MTM2552,İntegral Denklemler
+MTM2562,Fark Denklemleri
+MTM3541,Veri Yönetimi Ve Dosya Yapıları 2
+MTM3561,Sigorta Matematiğine Giriş
+MTM3601,Nümerik Analiz 2
+MTM3641,Bilgisayar Destekli Matematiksel Hesaplamalar
+MTM3651,İstatistik
+MTM3661,Matematik Lojik
+MTM3671,Çizge Kuramı Ve Algoritmalar
+MTM4521,Nesneye Yönelik Programlama
+MTM4541,Dinamik
+MTM4552,Görüntü İşleme
+MTP1011,Klasik Gitar 1
+MTP1031,Piyano 1
+MTP1041,Flüt 1
+MTP1051,Lied Yorumculuğu 1
+MTP1081,Fasıl Şarkıcılığı 1
+MTP1091,Caz Gitar 1
+MTP1101,Bas Gitar 1
+MTP1111,Davul 1
+MTP1121,Bağlama 1
+MTP1131,Viyolonsel 1
+MTP1141,Kanun 1
+MTP1731,Ud 1
+MTP1761,Türk Müziğinde Nefesli Sazlar 1
+MTP2011,Klasik Gitar 3
+MTP2021,Keman 3
+MTP2031,Piyano 3
+MTP2041,Flüt 3
+MTP2051,Lied Yorumculuğu 3
+MTP2061,Tanbur 3
+MTP2071,Klasik Kemençe 3
+MTP2081,Fasıl Şarkıcılığı 3
+MTP2091,Caz Gitar 3
+MTP2101,Bas Gitar 3
+MTP2121,Bağlama 3
+MTP2131,Viyolonsel 3
+MTP2141,Kanun 3
+MTP2151,Müzik Tarihi Klasik
+MTP2181,Makam Bilgisi 1
+MTP2191,Oda Müziği 1
+MTP2211,Türk Makam Müziği Topluluğu 1
+MTP2221,Türk Halk Müziği Topluluğu 1
+MTP2231,Caz Topluluğu 1
+MTP2261,Klarnet 3
+MTP2281,Yardımcı Çalgı 1
+MTP2761,Türk Müziğinde Nefesli Sazlar 3
+MTP3011,Klasik Gitar 5
+MTP3031,Piyano 5
+MTP3041,Flüt 5
+MTP3081,Fasıl Şarkıcılığı 5
+MTP3091,Caz Gitar 5
+MTP3101,Bas Gitar 5
+MTP3121,Bağlama 5
+MTP3171,Temel Caz Bilgisi 1
+MTP3191,Oda Müziği 3
+MTP3201,Caz Topluluğu 3
+MTP3221,Türk Halk Müziği Topluluğu 3
+MTP3231,Müzisyenler İçin Terminoloji 2
+MTP3241,Deşifraj 1
+MTP3281,Yardımcı Çalgı 3
+MTP4011,Klasik Gitar 7
+MTP4041,Flüt 7
+MTP4051,Lied Yorumculuğu 7
+MTP4071,Klasik Kemençe 7
+MTP4081,Fasıl Şarkıcılığı 7
+MTP4091,Caz Gitar 7
+MTP4101,Bas Gitar 7
+MTP4111,Davul 7
+MTP4121,Bağlama 7
+MTP4131,Viyolonsel 7
+MTP4151,Müzik Tarihi Ulusal
+MTP4201,Caz Topluluğu 5
+MTP4211,Türk Makam Müziği Topluluğu 5
+MTP4221,Türk Halk Müziği Topluluğu 5
+MTP4251,Halk Müziği Bilgileri 1
+MTP4740,Yeni Dramaturji
+MTP4760,16.yüzyıldan Günümüze İstanbulda Dans
+OKL1001,Erken Çocukluk Eğitimine Giriş
+OKL1031,Psikoloji
+OKL1041,Çocuk Sağlığı Ve İlk Yardım
+OKL2071,Okulöncesinde Değerler Eğitimi
+OKL2101,Erken Çocuklukta Fen Eğitimi
+OKL2111,Erken Çocuklukta Matematik Eğitimi
+OKL2121,Okul Öncesi Eğitim Programları
+OKL2130,Çocukta Hareket Gelişimi Ve Eğitimi
+OKL2190,Erken Çocuklukta Yaratıcılık Ve Yaratıcı Çocuk Etkinlikleri
+OKL2250,Beslenme Ve Sağlık
+OKL3001,Erken Çocuklukta Sanat Eğitimi
+OKL3101,Erken Çocuklukta Öğrenme Yaklaşımları
+OKL3111,Çocuğu Tanıma Ve Değerlendirme
+OKL4001,Anne Baba Eğitimi
+OKL4021,Araştırma Projesi 1
+OKL4161,Okul Öncesi Dönemde Farklı Eğitim Modelleri
+PDR1201,Psikolojiye Giriş
+PDR1211,Kültürel Antropoloji
+PDR1903,İstatistik 1
+PDR2062,İnsan İlişkileri ve İletişim
+PDR2072,Sosyal Psikoloji
+PDR2201,Gelişim Psikolojisi 2
+PDR2211,Öğrenme Psikolojisi
+PDR2221,Sosyal Psikoloji
+PDR2231,Temel İstatistik
+PDR2260,Bağımlılık Ve Bağımlılıkla Mücadele
+PDR2270,Kariyer Planlama ve Geliştirme
+PDR2310,Sosyal Beceri Eğitimi
+PDR2320,Aile İçi İlişkiler Ve İletişim
+PDR3072,Mesleki Rehberlik ve Danışma Uygulaması
+PDR3111,Terapötik İletişim
+PDR3122,Evlilik Ve Aile Danışmanlığı
+PDR3201,Davranış Bozuklukları 1
+PDR3211,Psikolojik Testler
+PDR3221,Psikolojik Danışma İlke Ve Teknikleri
+PDR3231,Psikolojik Danışma Kuramları
+PDR3241,Mesleki Rehberlik
+PDR4011,Psikolojik Testler
+PDR4031,Öğrenme Güçlükleri
+PDR4101,Bireyle Psikolojik Danışma Uygulaması
+PDR4151,Bağımlılık
+SBO1031,Arkeoloji
+SBO1051,Sosyoloji
+SBO1061,Sosyal Psikoloji
+SBO1101,Sosyal Bilgilerin Temellleri
+SBO1131,Genel Fiziki Coğrafya
+SBO2020,Çevre Eğitimi
+SBO2030,Günümüz Dünya Sorunları
+SBO2041,Temel Hukuk
+SBO2080,Sosyal Bilgiler Öğretimde Yerel-çocuk Oyunları
+SBO2083,Zeka Ve Akıl Oyunları
+SBO2090,Sosyal Bilgiler Öğretiminde Drama
+SBO2110,İnsan Hakları Ve Demokrasi Eğitimi
+SBO2130,Topluma Hizmet Uygulamaları
+SBO2210,Türk Kültür Coğrafyası
+SBO2270,Osmanlı Türkçesine Giriş
+SBO2420,"Sosyal Bilgiler Öğretiminde Tarihsel Kanıt, Yerel Ve Sözlü Tarih"
+SBO2421,Sosyal Bilgiler Öğrenme Ve Öğretim Yaklaşımları
+SBO2521,Türkiyenin Fiziki Coğrafyası
+SBO2621,İlk Türk-islam Devletleri Tarihi
+SBO2721,Ortaçağ Tarihi
+SBO2920,Zeka Ve Akıl Oyunları
+SBO2930,Eğitimde Çizgi Roman Kullanımı
+SBO3021,Türkiye Beşeri Ve Eko. Coğ.
+SBO3051,Ülkeler Coğrafyası
+SBO3162,Sosyal Bil. Sözlü Ve Yazılı Edebiyat İncelemesi
+SBO3231,Osmanlı Tarihi 1
+SBO3331,Yeni Ve Yakın Çağ Tarihi
+SBO3431,Sosyal Bilgiler Öğretimi 1
+SBO4011,Türkiye Cumhuriyeti Tarihi 1
+SBO4041,Özel Öğretim Yöntemleri 2
+SBO4051,Sosyal Bilgiler Ders Kitabı İnc.
+SBP1031,Şehir Ve Planlama 1
+SBP1041,Sosyoloji
+SBP1111,Planlama 1
+SBP1121,Tasarım İlkeleri Ve İfade Teknikleri
+SBP1312,Şehir Coğrafyası
+SBP1410,Temel Bilgisayar Bilimleri
+SBP2021,Bölge Planlama
+SBP2031,Şehir Ekonomisi
+SBP2051,Ekoloji
+SBP2061,Planlama 3
+SBP2310,Ekolojik Ekonomi Prensipleri
+SBP2941,Analiz Yöntem Ve Teknikleri
+SBP3021,Planlama Kuram Ve Teknikleri
+SBP3031,Şehir Ve Toplum Yönetimi
+SBP3041,Kentsel Ulaşım
+SBP3111,Planlama 5
+SBP3161,Şehir Yenileme Ve Koruma
+SBP3181,İmar Ve Çevre Hukuku
+SBP3310,Bilgisayar Destekli Tasarım
+SBP3350,Küreselleşmenin Yapısı Ve Coğrafyası
+SBP3420,Yeşil Alan Planlaması
+SBP3991,Şehir Planlama Ve İmar Hukuku
+SBP4320,Kent Merkezlerinin Planlaması
+SBP4340,Kent Planlamada Modeller
+SBP4350,Kentsel Kıyıların Planlanması Ve Tasarımı
+SBP4430,Rekreasyon Planlaması
+SBP4440,Sermaye Ve Kent Biçimi
+SBP4450,Şehir Planlamada Meslek Etiği
+SBP4470,Turizm Planlaması
+SBP4911,Planlama 7
+SBU1701,Hukuka Giriş
+SBU2011,Tarihsel Açıdan Ortadoğuda Azınlıklar 1
+SBU2211,Kamu Yönetimine Giriş
+SBU2711,Çağdaş Siyasi Kültür
+SBU4222,Türkiyenin Dış Politikası 2
+SBU4502,Türkiye Siyasetinde Güncel Konular
+SBU4521,Türk Yunan İlişkileri:tarihsel Sorunlar
+SBU4572,"Devlet, Toplum Ve Kalkınma Kuramları"
+SNF1211,İlkokulda Temel Matematik
+SNF1411,Türkiye Coğrafyası Ve Jeopolitiği
+SNF2030,Çocuk Psikolojisi
+SNF2050,Sanat Ve Estetik
+SNF2060,İlkokul Ders Kitaplarının İncelemesi
+SNF2080,Türk Halk Oyunları
+SNF2090,Türk Musikisi
+SNF2100,İlkokul Programı
+SNF2110,İlkokulda Alternatif Eğitim Uygulamaları
+SNF2121,İlkokuma Ve Yazma Öğretimi
+SNF2130,Risk Altındaki Çocuklar Ve Eğitimi
+SNF2331,Fen Bilimleri Laboratuvar Uygulamaları
+SNF2511,İlkokulda Drama
+SNF3221,Matematik Öğretimi 1
+SNF3341,Fen Öğretimi
+SNF3431,Hayat Bilgisi Öğretimi
+SNF4032,Öğretmenlik Uygulaması 2
+SNF4041,Etkili İletişim
+SNF4051,Cumhuriyet Dönemi Türk Edebiyatı
+SNF4052,Türk Bilim Tarihi
+SNF4071,Aile Ve Evlilik Eğitimi
+SNF4081,Hayat Boyu Eğitim
+SNF4121,Görsel Sanatlar Öğretimi
+SNF4131,Din Kültürü Ve Ahlak Bilgisi Öğretimi
+SNF4141,Trafik Ve İlk Yardım
+SYP1021,Uygarlık Tarihi
+SYP1041,Sanat Tarihine Giriş
+SYP1061,Dijital Ortamda Tasarım Yöntemleri
+SYP1071,Sanat Yönetimi 1
+SYP1092,Bilgi Yönetimi
+SYP1392,Sanat Pedagojisi
+SYP1432,Reklam Ajanslarında Sanat Yönetimi
+SYP2111,İşletmeye Giriş
+SYP2140,Gösteri Ve Sergileme Teknikleri 1
+SYP2151,Sanat Kurumlarının Gelişim Süreci
+SYP2161,Kültür Yönetimi Ve Etkenleri 1
+SYP2171,Türk Sanatı 1
+SYP2380,Perspektif 1
+SYP2480,İletişim Ve İkna
+SYP2561,Sanat Ve Eleştiri
+SYP3211,Atölye 1
+SYP3241,Halkla İlişkiler
+SYP3250,Resim Atölyesi
+SYP3341,Sinemada Sanat Yönetimi
+SYP3342,Müzeler Ve Müzecilik
+SYP3621,Koleksiyon Yönetimi
+SYP3680,Yeni Medya Sanatı Ve Kökenleri
+SYP4200,Sanat Ve Yemek
+SYP4341,Portfolyo Tasarımı
+SYP4411,Dekor Ve Kostüm Tasarımı 1
+SYP4421,Sanatta Sponsorluk
+SYP4474,Türk Tezhip Sanatı
+SYP4491,Sanat Yönetiminde Uygulama
+SYP4521,Müze İletişimi
+TDE1211,Türkiye Türkçesi Ses Bilgisi
+TDE1221,Türk Dili Tarihi (13. Yüzyıla Kadar )
+TDE1241,Tanzimat Dönemi Edebiyatı Şiir Ve Tiyatro
+TDE1251,Osmanlı Türkçesine Giriş
+TDE1271,Eski Türk Edebiyatına Giriş
+TDE1301,Yazılı Ve Sözlü Anlatım
+TDE1305,Türkçenin Güncel Sorunları
+TDE2211,Türkiye Türkçesi Tümce Bilgisi
+TDE2221,Orhon Türkçesi
+TDE2231,Eski Anadolu Türkçesi 13-14. Yüzyıl
+TDE2241,Eski Türk Edebiyatı 13.-14. Yüzyıl
+TDE2251,Osmanlı Türkçesi 1
+TDE2261,Servet-i Fünun Edebiyatında Şiir
+TDE2271,Edebiyat Kuramları
+TDE2281,Geleneksel Türk Tiyatrosu
+TDE3211,Karahanlı Türkçesi
+TDE3221,Türk Halk Edebiyatı
+TDE3231,Genel Dilbilim Fonetik-morfoloji
+TDE3241,Eski Türk Edebiyatı 16.yüzyıl
+TDE3261,2. Meşrutiyet Sonrası Türk Edebiyatına Giriş
+TDE3341,Edebi Sanatlar
+TDE3351,Türkçede Polisiye Edebiyat
+TDE3371,Anlatı Çözümlemeleri
+TDE4000,Bitirme Çalışması
+TDE4261,Cumhuriyet Dönemi Türk Şiir Ve Öyküsü
+TDE4271,Çağatayca
+TDE4303,Dil Semineri Sözlükçülük
+TDE4313,Özbek Edebiyatı
+TDE4321,Modern Türk Şiiri
+TDE4341,İstanbul Folkloruna Giriş
+TDE4351,Büyük Şark Klasikleri
+TDE4373,Osmanlı Paleografyasına Giriş
+TDE4381,Modern Türk Romanında Değişken Bir Unsur Olarak Tema
+BLM1992,İş Sağlığı Ve Güvenliği 2
+BLM2042,Sistem Analizi Ve Tasarımı
+BLM3722,Yazılım Mühendisliği
+BLM3810,Biyoenformatiğe Giriş
+BSP1062,Desen 2
+BSP1232,Temel Modlaj Atölyesi 2
+BSP2032,Sanat Atölyesi 2
+BSP2162,Desen 2
+BSP2362,Güncel Sanat Terminolojisi
+BSP2411,Beden İmgeleri
+BSP2432,Üç Boyutlu Sanat Atölyesi 2
+BSP2452,Baskı Resim-2
+BSP3012,Üç Boyutlu Sanat Atölyesi 4
+BSP3222,Sanat Atölyesi 4
+BSP3292,Dijital Ortamda Sanat
+BSP4000,Bitirme Çalışması
+BSP4252,Sergileme Yöntemleri
+BTO1102,Algoritma Tasarımı Ve Geliştirme
+BTO1112,Elektronik Devre Elemanları
+BTO1122,Programlama Öğretimi Yaklaşımları
+BTO1131,Eğitimde Bilişim Teknolojileri 1
+BTO2102,Bilişimde Öğrenme Ve Öğretim Yaklaşımları
+BTO2122,Bilişim Etiği Ve Güvenliği
+BTO2132,Veri Tabanı Yönetim Sistemleri
+BTO2152,Eğitimde Grafik Ve Canlandırma
+BTO2160,Eğitsel Video Tasarımı
+BTO2162,İleri Programlama
+BTO2210,Öğretimde Materyal Tasarımı
+BTO2904,Fizik 2
+BTO3102,Bilgisayar Ağları
+BTO3132,Açık Ve Uzaktan Öğrenme
+BTO3142,İşletim Sistemleri
+BTO3222,Grafik Tasarımı Ve İletişim
+BTO4222,Eğitim Yazılımı Tasarlama Geliştirme Ve Uygulama
+BYM1312,İş Sağlığı Ve Güvenliği 1
+BYM1512,Mühendisler İçin Organik Kimya
+BYM1602,Biyomühendislikte Fizikokimya
+BYM2202,Polimer Bilimi Ve Teknolojisi
+BYM2302,Biyomalzemeler
+BYM2502,Hücre Kültür Sistemleri
+BYM2602,Biyosensörler
+BYM2702,Stokiyometri
+BYM2812,Biyomühendislikte Akışkanlar Mekaniği
+BYM3032,Proje
+BYM3202,Mühendislik Laboratuvarı
+BYM3212,Doku Mühendisliği
+BYM3782,Biyoreaktör Tasarımı
+BYM3802,Yapay Organlar
+BYM4102,Veri Analizi Ve Görüntüleme
+BYM4202,Moleküler Biyolojide Modern Teknikler
+BYM4242,Biyomühendislik Laboratuvarı 2
+BYM4292,Biyomühendislik Ekonomisi
+BYM4302,Biyomühendislikte Mesleki İngilizce
+BYM4382,İmmünoloji
+BYM4502,Viroloji
+BYM4672,Biyotransport
+CEV1142,Sayısal Analiz
+CEV1152,Ekoloji
+CEV1162,Teknik Resim Ve Tasarı Geometri
+CEV2132,Çevre Mühendisliği Termodinamiği
+CEV2152,Çevre Mühendisliğinde Hidroloji
+CEV2202,Çevre Kimyası 2
+CEV2222,Çevre Mikrobiyolojisi
+CEV2272,Çevre Mühendisliğinde Hidrolik
+CEV3022,Su Kalite Kontrolü
+CEV3072,Çevre Hukuku
+CEV3302,Atıksuların Uzaklaştırılması
+CEV3322,Hava Kirliliği Kontrolu
+CEV3382,Temel İşlemler Laboratuvarı
+CEV3392,Biyolojik Temel İşlemler
+CEV4162,Göl Kirliliğinin Çevresel Boyutu
+CEV4392,Kirlenmiş Toprakların Islahı
+CEV4422,Atık Yönetimi Ve Geri Dönüşüm
+CEV4622,Tehlikeli Atık Yönetimi
+CEV4632,Gürültü Kontrolü
+CEV4652,Hava Kirliliği Modellemesi
+DTP1562,Ses Kayıt Teknikleri
+DTP2512,İndirgeme Ve Miksleme Teknikleri
+DTP2522,Oda Müziği İçin Kompozisyon
+DTP2812,Armoni 2
+DTP2822,Uzmanlık Alan Semineri 2
+DTP2872,İleri Kontrpuan
+DTP3522,Organolojiye Giriş
+DTP3562,Performans Ortamları İçin Ses Tasarımı
+DTP3572,Transkripsiyon Ve Analiz
+DTP3592,Yaylı Çalgılar İçin Kompozisyon
+DTP3812,Armoni 4
+DTP3822,Uzmanlık Alan Semineri 4
+DTP3832,Form Bilgisi 2
+DTP4301,Modalite Uygulamalari
+EHM1032,Elektronik Malzeme Bilgisi
+EHM1042,İş Sağlığı Ve Güvenliği 2
+EHM2142,Olasılık Teorisi
+EHM2162,Lojik Devre Lab.
+EHM3112,Antenler Ve Propogasyon
+EHM3142,Elektronik Devreler 2 Lab. Ve Proje
+EHM3181,Sayısal İşaret İşleme
+EHM4310,Mikrodalga Elektroniği
+EHM4360,Endüstriyel Elektronik
+EHM4390,Güç Elektroniği
+EHM5004,Araştırma Yöntemleri ve Bilimsel Etik
+EHM5202,Dijital Filtreler
+ELM2050,Elektromekanik Enerji Dönüşümü
+ELM2062,Elektrik Devre Lab.
+ELM2080,C Programlama Diline Giriş Ve Mühendislikte Uygulamaları
+ELM2082,Enerji Üretimi
+ELM2092,Algoritmalar ve Programlama
+ELM3192,Yüksek Gerilim Lab.
+ELM3252,Bileşik Isı ve Güç Sistemleri
+ELM3262,Nümerik Analiz
+ELM3292,Raylı Sistem Mühendisliğine Giriş
+ELM4050,Reaktif Güç Kompanzasyonu
+ELM4060,Yen.enerji Sist.için Güç Elektroniği
+ELM4281,Güç Elektroniğinin Endüstriyel Uyg.
+ELM4300,Elektrik Enerjisi Ekonomisi
+ELM4301,Elektrik Makinalarında Arızalar Ve Bakım Yöntemleri
+ELM4612,Elektrik Mak.lab. 2
+ELM4622,Güç Elek. Lab. 2
+ELM4890,Yol Aydınlatması
+END1912,İş Sağlığı Ve Güvenliği 2
+END2312,Ergonomi
+END2962,Numerik Analiz
+END2972,Yöneylem Araştırması 1
+END2992,İstatistik
+END3570,Yönetim Bilişim Sistemleri
+END3750,İstatistiksel Karar Verme
+END3820,Modelleme
+END3850,Karar Teorisi
+END3860,Oyun Teorisi Ve Stratejileri
+END3890,Endüstri 4.0
+END3900,Veri Madenciliği
+END3972,Maliyet Ve Yönetim Muhasebesi
+END3990,Veri Tabanı Yönetim Sistemleri
+END4380,İnsan Kaynakları Yönetimi
+END4400,Sistem Dinamiği
+END4420,Proje Yönetimi
+END4450,Pazarlama Ve Satış Yönetimi
+END4500,Teknoloji Yönetimi
+END4680,Depo Yönetimi
+END4820,Fizibilite Etüdü
+END4890,Süreç Yönetimi Ve Altı Sigma
+END4982,İş Hukuku
+FBO1022,Genel Fizik Lab. 2
+FBO1042,Genel Kimya Lab.2
+FBO1051,Genel Matematik 1
+FBO1062,Fizik 2
+FBO1072,Kimya 2
+FBO1082,Biyoloji 1
+FBO1092,Genel Matematik 2
+FBO2032,Modern Fiziğe Giriş
+FBO2051,Genel Kimya 3 (analitik Kimya)
+FBO2052,Genel Kimya 4 (organik Kimya)
+FBO2172,Fen Öğretim Programları
+FBO2182,Yer Bilimi
+FBO2192,Biyoloji 3
+FBO2202,Genel Biyoloji Laboratuvarı 2
+FBO3032,Çevre Bilimi
+FBO3082,Fen Öğretimi 2
+FBO3092,Fen Öğretimi Laboratuvar Uygulamaları 2
+FBO3102,Bilimsel Muhakeme Becerileri
+FBO3162,Topluma Hizmet Uygulamaları
+FBO4322,Astronomi
+FBO4452,Gıda Kimyası
+FBO4492,Oyunlarla Fen Eğitimi
+FBO4562,Besinler Ve Sağlıklı Beslenme
+FBO4602,Fen Bilgisi Eğitiminde Kimya Kavramları
+FIZ1002,Fizik 2 İngilizce Grupları Ortak Sınav
+FIZ1122,Mesleki İngilizce 2
+FIZ1262,Fizik Laboratuvarı 1
+FIZ2132,Modern Fizik
+FIZ2282,Fizik Laboratuvarı 3
+FIZ3430,Elektrik Devrelerine Giriş
+FIZ3650,Fizikte Matematik Yöntemler 2
+FIZ4430,Atom-molekül Fiziği
+FIZ4520,Hidrojen Enerjisi
+FVP1102,Fotoğraf Bilgisi 2
+FVP1122,Sayısal Görüntü Teknikleri
+FVP1132,Video Bilgisi
+FVP1402,Görme Biçimleri
+FVP2102,Stüdyo 2
+FVP2112,Sayısal Fotoğraf 2
+FVP2122,Video Uygulama 2
+FVP2132,Seminer 1
+FVP2142,Fotoğrafik Tasarıma Giriş
+FVP2442,Portre Fotografı
+FVP2452,Yapım Ve Yönetmenlik
+FVP2912,Mesleki Terminoloji 1
+FVP3122,Seminer 2
+FVP3132,Fotoğraf Tarihi 2
+FVP3142,Fotograf Ve Video Uygulamaları 2
+FVP3402,İletişim Kuramları Ve Etik
+FVP3452,Video Montaj
+FVP3462,Haber Röportaj
+FVP3722,Sinema Göstergebilimi
+FVP3932,Fotografik Çözümleme
+FVP4462,Video Sanatı
+FVP4472,Fotografta Eski Teknikler
+FVP4482,Mimari Fotoğraf
+FVP4702,İletişim Ve Tanıtım
+GDM1022,Gıda Etiği
+GDM1042,Gıda Mühendisliğinde Bilgisayar Uygulamaları
+GDM1252,Gıda Mühendisliğinde Organik Kimya
+GDM2042,Bilgisayar Destekli Mühendislik Çizimleri
+GDM2102,Gıda Mühendisliğinde Akışkanlar Mekaniği
+GDM2112,İş Sağlığı Ve Güvenliği 1
+GDM2162,Girişimcilik Ve Liderlik
+GDM2172,Gıda Mühendisliği Termodinamiği
+GDM2182,Gıda Mikrobiyolojisi
+GDM2222,Gıda Kimyası Ve Biyokimyası 2
+GDM3012,Süt Ve Ürünleri Teknolojisi
+GDM3022,Et Ve Ürünleri Teknolojisi
+GDM3032,Gıda Analizleri Ve Teknoloji Lab.1
+GDM3162,Gıda İşletmelerinde Proses Kontrolü
+GDM3202,Gıda Hijyeni Ve Sanitasyonu
+GDM3242,Gıda Mühendisliğinde Temel İşlemler 2
+GDM3252,Gıda Katkı Maddeleri Ve Toksikolojisi
+GDM3272,İş Sağlığı Ve Güvenliği 2
+GDM3282,Gıda Biliminde Moleküler Biyoloji
+GDM3332,Gıda Endüstri Atıkları Ve Değerlendirmesi
+GDM4002,Gıda Ambalajlama Ve Malzeme
+GDM4172,Gıda Mühendisliğinde Güncel Konular
+GDM4182,Özel Ve Geleneksel Gıdalar
+GDM4192,Gıda Güvenliği Yönetim Sistemleri
+GDM4212,Enzim Bilimi
+GDM4232,Beslenme
+GDM4252,Soğuk Tekniği
+GRA1012,Temel Tasarım 2
+GRA1022,Fotoğraf 2
+GRA1032,Desen 2
+GRA1042,Bilgisayar Destekli Tasarım 2
+GRA2012,Grafik Tasarımı 2
+GRA2022,Arayüz Tasarımı 2
+GRA2032,Tipografi 2
+GRA2042,Grafik Tasarım Tarihi 2
+GRA2052,İllüstrasyon 2
+GRA2170,Mitoloji Ve İkonografi
+GRA2210,Sosyal Medya Ve Tasarım
+HRT2252,Sayısal Görüntü İşleme
+HRT2322,Ölçme Bilgisi 3
+HRT2442,Topografik Harita Üretimi
+HRT2912,Mesleki İngilizce 2
+HRT2932,Harita Mühendisliğinde Proje Yönetimi
+HRT2941,Haritacılık Bilim Tarihi
+HRT3142,Gnss Verilerinin Değerlendirilmesi
+HRT3242,Görüntü İşleme Algoritmalarının Programlanması
+HRT3262,Jeodezik Metroloji
+HRT3372,Hidrografik Ölçmeler
+HRT3390,Şehirsel Teknik Altyapı
+HRT3422,Kartografya 2
+HRT3462,Cbs De Programlama
+HRT3472,Mobil Cbs Ve Kartografya
+HRT4172,Jeodezi Uygulaması
+HRT4212,Uzaktan Algılama Uygulaması
+HRT4242,Web Tabanlı Gps Veri Analizi
+HRT4332,Navigasyon Ve Kinematik Konumlama
+HRT4372,Mühendislik Ölçmeleri Uygulaması
+HRT4392,Tasarım 2 - İmar Uygulaması
+HRT4441,Web Cbs Ve Kartografya
+HRT4482,Kartografya Ve Jeoenformatik Uygulaması
+HRT4552,Cbs Ve Coğrafi Hesaplama
+HRT5000,Yüksek Lisans Tezi
+HRT5001,Seminer
+HRT5003,Uzmanlık Alan Dersi (Yüksek Lisans)
+IKT1092,Ekonomi
+IKT1122,Türkiyenin Toplumsal Yapısı
+IKT2202,Makro İktisat
+IKT2212,İstatistik 2
+IKT3660,Tarım Ekonomisi
+IKT3670,İktisadi Planlama
+IKT3710,Enformasyon İktisadı
+IKT3740,Türev Piyasalar
+IKT3840,İktisatta Makine Öğrenmesi
+IKT4750,Dünya Ekonomisi
+IKT4790,İslam İktisat Tarihi
+ILT1612,Video Çekim Teknikleri
+ILT2652,Proje 1
+ILT2662,Etkileşimli Ortam Tasarımı
+ILT2712,Tasarım için Rol Oynama
+ILT2932,Dil Kullanımı Ve İletişim
+ILT3652,Proje 3
+ILT3732,3B Animasyon
+ILT3750,Özgür Ve Açık Kaynaklı Yazılımlar Ve Dijital Video
+ILT3802,Ergonominin Temelleri
+ILT3812,İllüstrasyon
+ILT3942,Semiyoloji
+ILT4712,Film Eleştirisi
+ILT4722,Sanal Ortam Tasarımı
+ILT4732,Görsel Efekt Tasarımı
+ILT4762,Film Yapım Araçları
+ING1222,Sözcük Bilgisi
+ING1312,Okuma Becerileri 2
+ING1322,Yazma Becerileri 2
+ING1332,Dinleme Ve Sesletim 2
+ING2020,Dünya İngilizceleri Ve Kültür
+ING2030,Edimbilimi Ve Dil Öğretimi
+ING2070,İngilizce Öğretiminde Yeni Yaklaşımlar
+ING2150,Söylem Çözümlemesi Ve Dil Öğretimi
+ING2312,İngilizce Öğretim Programları
+ING2322,İngiliz Edebiyatı 2
+ING2332,Dilbilimi 2
+ING3192,Türkçe- İngilizce Çeviri
+ING3312,Çocuklara Yabancı Dil Öğretimi 2
+ING3332,Dil Ve Edebiyat Öğretimi 2
+ING4252,Yabancı Dilde Öğrence Geliştirme Ve Değerlendirme
+ING4342,Yabancı Dil Öğretiminde Ölçme Ve Değerlendirme
+INS1122,Mühendislik Jeolojisi
+INS3112,Temel İnşaatı
+INS3242,Hidroloji
+INS3542,Çok Katlı Çelik Yapılar
+INS3562,Yapı Dinamiği
+INS3782,Sürdürülebilir Yapı Malzemeleri
+INS3822,Bilgisayar Destekli Çizim
+INS3952,Zemin Mekaniği Ve Temel İnşaatı
+INS4431,Tüneller
+INS4452,Kentiçi Ulaştırma Sistemleri
+INS4471,Karayolu Tasarımı
+INS4541,Çelik Yapılar 2
+INS4632,Betonarme Yapılar Ve Temel Tasarımı
+INS4632,Betonarme Yapılar Ve Temel Tasarımı Ortak Grup
+INS4642,Betonarme Yapıların İncelenmesi Ve Güçlendirilmesi
+INS4642,Betonarme Yapıların İncelenmesi Ve Güçlendirilmesi Ortak Grup
+INS4662,Deniz Yapıları Tasarımı
+INS4662,Deniz Yapıları Tasarımı Ortak Grup İngilizce
+INS4662,Deniz Yapıları Tasarımı Ortak Grup Türkçe
+INS4672,Toplu Taşıma Aktarma Merkezi Tasarımı Ortak Grup İngilizce
+INS4902,İş Sağlığı Ve Güvenliği 2
+INS5000,Yüksek Lisans Tezi
+INS5001,Seminer
+INS5003,Uzmanlık Alan Dersi (Yüksek Lisans)
+INS5004,Araştırma Yöntemleri ve Bilimsel Etik
+INS5504,Otopark Planlaması ve Yönetimi
+INS6503,Ulaştırma Planlaması II
+INS6507,Trafik Akım Kuramı
+INS6508,Ulaştırma İşletmesi
+ISL1150,Kariyer Planlama
+ISL1622,Davranış Bilimi
+ISL2122,Mesleki İngilizce 1
+ISL2901,Doğrudan Pazarlama
+ISL3522,Uluslararası Pazarlama
+ISL3982,Kıymetli Evrak Hukuku
+ISL4640,Girişimcilik
+ISL4851,İşletmelerde İnovasyon Yönetimi
+ISL4860,Tüketici Davranışı
+ISL4870,Marka Yönetimi
+ISL4891,Müşteri İlişkileri Yönetimi
+IST1132,Olasılık
+IST1930,Uygulamalı Bilimler İçin İstatistik
+IST1990,Olasılık Ve İstatistik
+IST2122,Phyton İle İstatistik Uygulamalar
+IST2152,Örnekleme 2
+IST2170,Güncel İstatistik Uygulamaları
+IST2252,Veri Analizi
+IST3110,R İle İstatistik Uygulamaları
+IST3132,Stokastik Süreçler
+IST3210,Sas Programı İle İstatistik
+IST3252,Nümerik Analiz
+IST4232,Yöneylem Araştırması 2
+IST4242,Kategorik Veri Analizine Giriş
+ITB4040,Gönüllülük Çalışmaları
+KIM1022,Genel Kimya Laboratuvarı 2
+KIM1502,Genel Kimya 2
+KIM1512,Genel Kimya 2
+KIM1602,Genel Kimya 2
+KIM1612,İş Sağlığı Ve Güvenliği 2
+KIM2452,Su Kimyası
+KIM2462,Organik Kimya
+KIM2522,Anorganik Kimya 2
+KIM2552,Anorganik Kimya Lab. 2
+KIM2562,Fizikokimya Lab. 1
+KIM2592,Mesleki Terminoloji
+KIM2602,Metal Kimyası
+KIM2612,Nanobilim Ve Nanoteknoloji
+KIM3412,Enstrümental Analiz 2
+KIM3422,Biyokimya 2
+KIM3432,Biyokimya Lab.1
+KIM3452,Enstrümental Analiz Lab.
+KIM3462,Organik Kimya Lab.1
+KIM3482,Endüstriyel Polimer Ve Uygulamaları
+KIM3492,Makromoleküler Kimya
+KIM3502,Polimerik Kompozit Malzemeler
+KIM3522,Analitik Ayırma Yöntemleri
+KIM4202,Kauçuk Kimyası
+KIM4272,Kompleks Kimyası
+KIM4352,Tekstil Kimyası
+KIM4372,Yüzey Kaplama
+KIM4392,Endüstriyel Kimya
+KIM4512,Biyolojik Aktif Bileşik Sentezleri
+KIM4532,Biyosensörler
+KIM4572,Endüstriyel Biyoteknoloji
+KIM4642,İleri Organik Malzemeler
+KIM4722,Deterjanlar
+KIM4792,Fotokimyasal Teknoloji
+KIM4812,Tıbbi Bitkiler Kimyası
+KIM4832,Enzim Kinetiği
+KIM4852,Koku Ve Tat Bileşikleri
+KIM4892,Medikal Metaller Ve Uygulama Alanları
+KIM4922,Nmr Spektroskopisi
+KIM4992,İlaç Kimyası
+KMM1002,Temel Bilgisayar Bilimleri
+KMM2602,İş Sağlığı Ve Güvenliği 2
+KMM2612,Kimya Müh. Akışkanlar Mekaniği
+KMM2622,Kimya Mühendisleri İçin Malzeme Bilimi
+KMM2632,Kimya Mühendisliği Termodinamiği 1
+KMM2642,Teknik Resim
+KMM3502,Ayırma İşlemleri
+KMM3512,Kimya Müh. Bilg. Uyg.
+KMM3522,Kimya Mühendisliği Lab 1
+KMM3532,Kimya Müh. Matematiksel Modelleme
+KMM3542,Kimyasal Reaksiyon Mühendisliği
+KMM3552,Deneysel Tasarım Ve Veri Analizi
+KMM3562,Ölçme Ve Kontrol Cihazları
+KMM3572,Proses Birimlerinin Tasarımı
+KMM3582,Tekstil Hazırlama Teknolojisi
+KMM4602,Kimya Mühendisliği Lab 3
+KMM4622,Kimya Mühendisliğinde Proses Tasarımı-2
+KMM4632,Kimyasal Teknolojiler
+KMM4652,Kataliz Ve Katalitik Prosesler
+KMM4662,Kimya Endüstrisinde Korozyon
+KMM4682,Biyomalzeme Teknolojileri
+KMM4702,Polimerlerin İşlenmesi
+KMM4722,Bilgisayar Destekli İleri Kimya Müh.uygulamaları
+KOM1012,Algoritma Tasarımı Ve Programlamaya Giriş
+KOM1062,Ayrık Matematik
+KOM1992,İş Sağlığı Ve Güvenliği 2
+KOM2522,Dinamik
+KOM2702,Sayısal Elektronik
+KOM2712,"Sistem Dinamiği, Modelleme ve Benzetimi"
+KOM3540,Fizyolojik Sistemlerin Modellenmesi
+KOM3560,Endüstriyel Elektronik
+KOM3570,Endüstriyel Sistemlerde Görüntü İşleme
+KOM3712,Kontrol Sistemleri Tasarımı
+KOM3722,Mikrokontrolörler Ve Endüstriyel Uygulamaları 1
+KOM3752,Endüstriyel Otomasyon Sistemleri 2
+KOM3772,Endüstriyel Otomasyon Sistemleri Laboratuvarı 1
+KOM4530,Scada-insan Makine Arayüzü
+KOM4550,Fonksiyonel Emniyete Giriş
+KOM4610,Servo Sistemler Ve Sürücüler
+KOM4620,Gerçek Zamanlı Kontrol Sistemleri
+KOM4630,Süreç Kontrolü
+KOM4650,Robot Sistemleri
+KOM5000,Yüksek Lisans Tezi
+KOM5001,Seminer
+KOM5003,Uzmanlık Alan Dersi (Yüksek Lisans)
+KOM5107,Sistem Dinamiği Modellenmesi ve Simülasyonu
+KVK1012,Bilgisayar Destekli Çizim
+KVK1022,Koruma Kuramları Ve Mevzuatı
+KVK1032,Sanat Tarihine Giriş
+KVK1042,Bezeme Teknikleri 2
+KVK1052,İş Sağlığı Ve Güvenliği 2
+KVK1062,Bilimsel Araştırma Ve Yazma Yöntemleri
+KVK1072,Müzecilik Ve Önleyici Koruma
+KVK2012,Kültür Varlıklarını Belgeleme Ve Koruma 2
+KVK2022,Koruma Kimyası 2
+KVK2032,Taş Koruma Ve Onarım
+KVK2042,Pişmiş Toprak - Cam Koruma Ve Onarım
+KVK2052,Geleneksel Yapı Teknolojisi Ve Elemanları 2
+KVK2122,Osmanlı Mimarlığı Ve Koruma
+KVK2132,Mobilya Döşeme Teknikleri
+KVK2142,Mesleki Etik
+KVK3012,Kültür Varlıklarını Belgeleme Ve Koruma 4
+KVK3022,Malzeme Bilgisi
+KVK3032,Duvar Resmi - Mozaik Koruma Ve Onarım
+KVK3312,Geleneksel Desen Teknikleri
+KVK3322,Geleneksel Ahşap Süsleme Teknikleri
+MAK1062,Programlama
+MAK2172,Dinamik 2
+MAK3162,Otto Motor Teknolojisi
+MAK3252,Hesaplamalı Akışkanlar Mekaniği
+MAK3262,Tasarım Tekniği 1
+MAK3402,Bilgisayar Destekli Tasarım
+MAK3472,Endüstriyel Malzemelerin Talaşlı İşlenmesi
+MAK3482,Isı Değiştiricileri
+MAK3572,Makine Mühendisliğinde Malzeme Seçimi
+MAK3602,Mekatronik Sistemler
+MAK3672,Motor Dinamiği
+MAK3682,Proses Tekniği
+MAK3692,"Motorlarda Aşınma, Yağlama Ve Soğutma"
+MAK3782,Otomotiv Kontrol Sistemlerinin Analizi Ve Modellemesi
+MAK3802,Isıtma Havalandırma
+MAK3812,Yenilenebilir Enerji Sistemleri
+MAK4052,Otomatik Kontrol 2
+MAK4062,Endüstriyel Kontrol Uygulamaları
+MAK4172,Enerji Tesisleri Ve İşletmesi
+MAK4182,Mühendislik Sistemlerinin Optimizasyonu
+MAK4282,İmalatta Kompozit Malzemeler
+MAK4472,İş Sağlığı Ve Güvenliği 2
+MAK4482,Endüstriyel Otomasyon
+MAK4542,Cnc Takım Tezgahları Ve Programlanması
+MAK4562,İmalatta Bilgisayar Destekli Tasarım
+MAK4582,Nanomalzemelere Giriş
+MAK4652,Alternatif Taşıt Tahrik Sistemleri
+MAK4672,Taşıt Titreşimleri
+MAK4682,Yakıtlar Yanma
+MAK4702,Robotik Birleştirme Teknikleri
+MAK4882,"İklimlendirme Sistemlerinde Test, Ayar Ve Devreye Alma"
+MAK4902,Güneş Enerjisi Ve Isı Pompası Sistemleri 2
+MAK4912,Kurutma
+MAK4942,Enerji Santralleri
+MAK4962,Taşıtlarda Frenleme Dinamiği Ve Fren Sistemleri
+MAT1072,Matematik 2 İngilizce Grupları Ortak Sınav
+MAT1142,Matematik Analiz 2
+MAT1162,Sayılar Teorisine Giriş
+MAT1342,Matematik II
+MAT2042,Matematik Analiz 4
+MAT2172,Diferansiyel Denklemler 2
+MAT2192,Olasılık Ve İstatistik
+MAT3280,İntegral Denklemlere Giriş
+MAT3290,Bilgisayar Destekli Matematiksel Hesaplamalar
+MAT3330,Değişmeli Cebir
+MAT4460,Düzlemsel Kinematik
+MAT4510,Lineer Operatörlere Giriş
+MAT4550,Graf Teoriye Giriş
+MAT4560,Bilgisayar Programlama 2
+MAT5004,Araştırma Yöntemleri ve Bilimsel Etik
+MAT6001,Seminer
+MAT6105,Değişmeli Cebir I
+MAT6110,Fonksiyonel Analiz II
+MAT6116,Kısmi Diferansiyel Denklemlerde Nümerik Metodlar
+MBG1012,Genel Biyoloji 2
+MBG1032,Biyoistatistik
+MBG1042,Moleküler Biyolojiye Giriş
+MBG2212,Genetik 2
+MBG2222,Mikrobiyal Genetik
+MBG2232,Doku Kültürleri
+MBG2242,İş Sağlığı Ve Güvenliği 2
+MBG3052,Mesleki İngilizce 2
+MBG3082,Biyokimyasal Hesaplamalar
+MBG3092,Bitki Embriyolojisi
+MBG3093,Kilinik Mikrobiyoloji Uygulamaları
+MBG3312,Biyokimya 2
+MBG3322,Moleküler Biyoloji 2
+MBG3332,Gen Mühendisliği
+MBG4000,Bitirme Çalışması
+MBG4032,İmmunogenetik
+MBG4042,Kök Hücre Biyolojisi
+MBG4062,Protein Mühendisliği
+MBG4412,Moleküler Biyoteknoloji
+MBG4473,Tıbbi Biyokimya
+MBG4474,Katılım Kalıpları Ve Genetik Hastalıklar
+MBG4492,Kanser Biyolojisi
+MIM1052,Yapı Elemanları 1
+MIM2202,İş Sağlığı Ve Güvenliği 2
+MIM3042,Yapı Fiziği 2
+MIM3132,Mimarlıkta Mekan Kavramı
+MIM3151,Eskiz Teknikleri
+MIM3182,Mimari Çevre Ve Psikoloji
+MIM3312,Mimari Fotoğraf
+MIM4101,Modern Mimarlık Mirası
+MIM4202,Yapılarda Cephe Sistemleri
+MIM4252,Mekanda Renk
+MIM4600,Tarihi Yapılar Üzerinden İstanbul Okuması
+MKT1122,Malzeme Bilimi
+MKT1142,Bilgisayar Programlama Ve Algoritmalar
+MKT1802,İş Sağlığı Ve Güvenliği 2
+MKT2802,Lojik Devreler
+MKT2812,İşaretler Ve Sistemler
+MKT2832,Termodinamik
+MKT3122,Otomatik Kontrol
+MKT3822,Lab 3 - Sistem Dinamiği Ve Kontrol
+MKT3832,Elektromekanik Enerji Dönüşüm Sistemleri
+MKT4814,Proje Yönetimi
+MKT4825,Isıl Sistem Tasarımına Giriş
+MKT4830,Görüntü İşleme Temelleri
+MKT4832,Medikal Mekatronik
+MKT4834,Taşıt Dinamiği Temelleri
+MKT4836,Bilgisayar Destekli İmalat
+MKT4840,Aviyonik Sistemler
+MKT4845,İletişim Teknikleri
+MTF1112,Çeviriye Giriş 2
+MTF1122,Fransız Yazın Uygarlığı 1
+MTF1142,Fransızca Yazılı Anlatımı Geliştirme 2
+MTF1152,Terimbilim
+MTF1392,Kültürlerarası Diyalogu Geliştirme Uygulamaları
+MTF2092,Sözlükbilim ve Çeviri
+MTF2112,Çeviri Kuramları
+MTF2122,Fransız Yazın Ve Uygarlığı 3
+MTF2142,Teknik Çeviri 2
+MTF2152,Tr- Fr. Çeviri Çalışmaları 2
+MTF2372,Çeviri Odaklı Eleştirel Veri Okuryazarlığı
+MTF2392,Göstergebilime Giriş
+MTF2412,İtalyanca 2
+MTF2432,Almanca 2
+MTF3132,Göstergebilim ve Çeviri
+MTF3212,Yazınsal Çeviri 2
+MTF3312,Fransız Yazını Ve Uygarlığı 5
+MTF3322,Zorunlu Yabancı Dilde Çeviri 2
+MTF3323,Sözlü Çeviri 2
+MTF3324,Teknik Çeviri 4
+MTF3372,Sosyal Medya Ağları Ve Çeviri Hareketleri
+MTF3382,Çeviribilim Ve Disiplinlerarasılık
+MTF3412,İtalyanca 4
+MTF3432,Almanca 4
+MTF4362,Farklı Engelli Toplulukları: Farkındalık Ve Çeviri
+MTF4412,İtalyanca 6
+MTF4432,Almanca 6
+MTF4462,Teknik Çeviri 6
+MTF4472,Zorunlu Yabancı Dilde Çeviri 4
+MTM1512,Programlama Dilleri 2
+MTM1522,Soyut Matematik
+MTM1552,İş Sağlığı Ve Güvenliği 2
+MTM2582,Sonlu Elemanlar Yönetimine Giriş
+MTM2602,Yapay Zekaya Giriş
+MTM2622,Ayrık Matematik
+MTM3582,Matris Analizi
+MTM3612,Zaman Serileri Analizi
+MTM4511,Matematik Mühendisliğinde Tasarım Uygulamaları
+MTM4582,Kısmi Diferansiyel Denklemlerin Nümerik Çözümleri
+MTM4622,Yapay Zeka
+MTP1012,Klasik Gitar 2
+MTP1032,Piyano 2
+MTP1042,Flüt 2
+MTP1082,Fasıl Şarkıcılığı 2
+MTP1092,Caz Gitar 2
+MTP1102,Bas Gitar 2
+MTP1112,Davul 2
+MTP1122,Bağlama 2
+MTP1132,Viyolonsel 2
+MTP1142,Kanun 2
+MTP1172,Ud 2
+MTP1762,Türk Müziğinde Nefesli Sazlar 2
+MTP2012,Klasik Gitar 4
+MTP2022,Keman 4
+MTP2032,Piyano 4
+MTP2042,Flüt 4
+MTP2052,Lied Yorumculuğu 4
+MTP2062,Tanbur 4
+MTP2072,Klasik Kemençe 4
+MTP2082,Fasıl Şarkıcılığı 4
+MTP2092,Caz Gitar 4
+MTP2102,Bas Gitar 4
+MTP2112,Davul 4
+MTP2122,Bağlama 4
+MTP2132,Viyolonsel 4
+MTP2142,Kanun 4
+MTP2152,Müzik Tarihi 19.yüzyıl
+MTP2182,Makam Bilgisi 2
+MTP2192,Oda Müziği 2
+MTP2202,Caz Topluluğu 2
+MTP2212,Türk Makam Müziği Topluluğu 2
+MTP2222,Türk Halk Müziği Topluluğu 2
+MTP2232,Müzisyenler İçin Terminoloji 1
+MTP2282,Yardımcı Çalgı 2
+MTP2762,Türk Müziğinde Nefesli Sazlar 4
+MTP3012,Klasik Gitar 6
+MTP3032,Piyano 6
+MTP3042,Flüt 6
+MTP3092,Caz Gitar 6
+MTP3102,Bas Gitar 6
+MTP3122,Bağlama 6
+MTP3192,Oda Müziği 4
+MTP3202,Caz Topluluğu 4
+MTP3222,Türk Halk Müziği Topluluğu 4
+MTP3282,Yardımcı Çalgı 4
+MTP4171,Temel Caz Bilgisi 2
+MTP4241,Deşifraj 2
+MTP4262,Dini Müzik
+MTP4750,Çağdaş Dansta Kuram Ve Uygulama İlişkisi
+OKL1002,Erken Çocukluk Döneminde Gelişim
+OKL1042,Bebeklik Döneminde Gelişim Ve Eğitim
+OKL1112,Anne Çocuk Sağlığı Ve İlk Yardım
+OKL2100,Aile Eğitimi Ve Katılımı
+OKL2102,Erken Çocuklukta Müzik Eğitimi
+OKL2112,Erken Çocuklukta Oyun Gelişimi Ve Eğitimi
+OKL2122,Erken Çocukluk Eğitiminde Drama
+OKL3032,Materyal Geliştirme
+OKL3062,Özel Öğretim Yöntemleri 2
+OKL3121,Müzik Eğitimi 1
+OKL3122,Müzik Eğitimi 2
+OKL3202,Erken Çocukluk Dönemi Çevre Eğitimi
+OKL3212,Çocuk Ruh Sağlığı
+OKL3222,Erken Çocukluk Dönemi Edebiyatı
+OKL4012,Ilköğretime Hazırlık Ve İlköğretim Programı
+OKL4022,Araştırma Projesi 2
+OKL4032,Öğretmenlik Uygulaması 2
+OKL4122,Risk Altındaki Çocukların Eğitimi
+OKL4182,Okul Öncesi Eğitimde Program Geliştirme
+PDR1202,Gelişim Psikolojisi 1
+PDR1212,Fizyolojik Psikoloji
+PDR1222,Okullarda Rehberlik Ve Psikolojik Danışma
+PDR2102,Okullarda Gözlem
+PDR2212,Kişilik Kuramları
+PDR2222,Yaşam Dönemleri Ve Uyum Sorunları
+PDR2232,Karakter Ve Değer Eğitimi
+PDR2242,Test Dışı Teknikler
+PDR2290,Krize Müdahale
+PDR2300,Önleyici Rehberlik Ve Psikolojik Danışma
+PDR3021,Yaşam Dönemleri ve Uyum Problemleri
+PDR3031,Kişilik Kuramları
+PDR3082,Rehberlikte Program Geliştirme
+PDR3142,Yaratıcı Drama
+PDR3222,Psikolojik Danışma Becerileri
+PDR3232,Grupla Psikolojik Danışma
+PDR3242,Mesleki Rehberlik Uygulamaları
+PDR3252,Manevi Danışmanlık
+PDR3262,Davranış Bozuklukları 2
+PDR4082,Rehberlik ve Psikolojik Danışma Semineri
+PDR4092,Reh. ve Psiko. Danışmada Alan Çalışması
+PDR4102,Meslek Etiği Ve Yasal Konular
+PDR4112,Kurum Deneyimi
+PDR4122,Okul Temelli Önleyici Reh.ve Psiko.danış
+PDR4132,Grupla Psikolojik Danışma Uygulamaları
+SBO1032,Felsefe
+SBO1042,Ekonomi
+SBO1052,Genel Fiziki Coğrafya
+SBO1122,Siyaset Bilimi
+SBO1132,İslam Öncesi Türk Tarihi Ve Kültürü
+SBO1142,Sosyal Antropoloji Ve Medeniyet Tarihi
+SBO1152,Genel Beşeri Ve Ekonomik Coğrafya
+SBO2101,Sosyal Bilgilerde Kavram Eğitimi Ve Öğretimi
+SBO2142,Ortaçağ Tarihi
+SBO2422,Sosyal Bilgiler Öğretim Programları
+SBO2522,"Bilim, Teknoloji Ve Toplum"
+SBO2622,Vatandaşlık Bilgisi
+SBO2722,Türkiyenin Beşeri Ve Ekonomik Coğrafyası
+SBO3032,İnsan İlişkileri Ve İletişim
+SBO3042,Çağdaş Dünya Tarihi
+SBO3061,Topluma Hizmet Uygulamaları
+SBO3332,Osmanlı Tarihi 2
+SBO3432,Sosyal Bilgilerde Sözlü Ve Yazılı Edebiyat
+SBO3532,Siyasi Coğrafya Ve Türkiye Jeopolitiği
+SBO3632,Sosyal Bilgiler Öğretimi 2
+SBO4012,Türkiye Cumhuriyeti Tarihi 2
+SBO4042,Sosyal Proje Geliştirme
+SBO4052,Drama
+SBO4062,Eğitimde Yeni Yönelimler
+SBP1062,İnsan Yerleşmelerinin Evrimi
+SBP1112,Planlama 2
+SBP1112,Planlama 2 Ortak Grup 1
+SBP1112,Planlama 2 Ortak Grup 2
+SBP1172,Şehir Ve Planlama 2
+SBP1300,Kent Okumaları
+SBP1310,Planlamada Coğrafi Bilgi Sistemleri Kullanımı
+SBP2062,Planlama 4
+SBP2062,Planlama 4 Ortak Grup 1
+SBP2062,Planlama 4 Ortak Grup 2
+SBP2072,Kent Ve Planlama Tarihi
+SBP2082,Şehir Sosyolojisi
+SBP2320,Ekonomik Mekanı Anlamak
+SBP2350,Sinerjetik Toplum Ve Gündem 21
+SBP2900,Kentsel Tasarım Kuramları
+SBP3052,Planlama 6
+SBP3052,Planlama 6 Ortak Grup 1
+SBP3052,Planlama 6 Ortak Grup 2
+SBP3340,Konut
+SBP3380,Şehircilikle Ütopyalar
+SBP3400,Yeni Kentsel Politikalar
+SBP3410,Yerleşme Sistemleri Ve Kademelenme
+SBP3920,Planlamada Afet Önlemleri Ve Afet Risklerinin Azaltılması
+SBP4000,Bitirme Çalışması
+SBP4300,Hizmet Sektörü Ve Bölgesel Gelişme
+SBP4310,Katılımcı Kent Yönetiminde Proje Yönetim Süreci
+SBP4330,Kent Peyzajı Ve Kentsel Ekosistemler
+SBP4370,Kentsel Mekanda Dönüşüm
+SBP4390,Kentsel Sit Alanlarında Planlama
+SBP4490,Yerel Yönetimler Ve Şehir İşletmesi
+SBU1612,Anayasa Hukuku
+SBU1702,Uluslararası İlişkilere Giriş
+SBU2132,Mesleki İngilizce 1
+SBU2142,Türkiyenin Yönetim Yapısı
+SBU2152,Siyasi Tarih 2
+SBU2602,Siyaset Ve Sinema
+SBU2631,Sözlü Tarih Ve Tartışmalar
+SBU2641,Türk Dış Politikasında Yeni Bakış Açıları 1
+SBU3561,Toplumsal Duyarlılık Projesi 2
+SBU3812,Uluslararası Örgütler
+SBU3912,Milliyetçilik Ve Azınlıklar
+SBU3922,Türkiye Ekonomisi
+SBU4201,Avrupa Atlantik Güvenliği Ve Yeni Tartışmalar
+SBU4562,Uygulamalı Araştırma
+SNF1052,Temel Matematik 2
+SNF1312,İlkokulda Temel Fen Bilimleri
+SNF1322,Çevre Eğitimi
+SNF1422,Türk Tarihi Ve Kültürü
+SNF2042,Fen Ve Teknoloji Lab. Uygulamaları 2
+SNF2070,Geleneksel Türk El Sanatları
+SNF2152,Türkçe Öğretimi
+SNF2160,Türk Kültüründe Çocuk Ve Eğitim
+SNF2522,Oyun Ve Fiziki Etkinlikler Öğretimi
+SNF3052,Erken Çocukluk Eğitimi
+SNF3082,Osmanlı Eğitim Tarihi
+SNF3122,Fen Ve Teknoloji Öğretimi 2
+SNF3222,Matematik Öğretimi 2
+SNF3442,Sosyal Bilgiler Öğretimi
+SNF3622,Din Kültürü Ve Ahlak Bilgisi Öğretimi
+SNF4012,Birleştirilmiş Sınıflarda Öğretim
+SNF4022,İlköğretimde Kaynaştırma
+SNF4062,Eğitimsel Biyografiler
+SYP1062,Araştırma Yazma Yöntemleri
+SYP1072,Ortaçağ Dan Endüstri Devrimine Avrupa Sanatı
+SYP1082,Sanat Yönetimi 2
+SYP1112,Sanat Ve Kültür Kurumları İşletmeciliği
+SYP1612,Uygarlık ve Sanat Tarihi 2
+SYP2142,Türk Sanatı 2
+SYP2182,Aydınlanma Döneminden Postmodernizme Sanat
+SYP2192,Kültür Yönetimi Ve Etkenleri 2
+SYP2440,Kurumsal İletişim
+SYP2441,Sanat Ve Matematik
+SYP2550,Sahne Sanatlarında Sanat Yönetimi
+SYP2670,1980 Den Günümüze Türkiye De Sanat
+SYP2770,Sanat Yönetimi Ve Çağdaş Sanat Pratiği 2
+SYP3362,Kültür Politikaları
+SYP3542,Sanat Yapıtı Ve Tarihsel Okuma
+SYP3580,Perspektif 2
+SYP4211,Işık Ve Ses Bilgisi
+SYP4312,Dijital Ortamda Tasarım Yöntemleri
+SYP4410,Endüstriyel Tasarım Tarihi
+SYP4412,Etkinlik Yönetimi
+SYP4460,Örgütsel Davranış
+SYP4471,Dekor Ve Kostüm Tasarımı 2
+SYP4472,Kamusal Pratikler
+SYP4641,Organizasyon Yönetimi 2
+TDE1212,Türkiye Türkçesi Biçim Bilgisi
+TDE1222,Türk Dili Tarihi (13.yüzyıldan Sonra)
+TDE1242,Tanzimat Dönemi Edebiyatı Roman Ve Hikaye
+TDE1252,Osmanlı Türkçesi Grameri
+TDE1262,Türk Halk Edebiyatına Giriş
+TDE1272,Eski Türk Edebiyatında Şekil Ve Tür
+TDE2212,Metin Şerhi
+TDE2222,Uygur Türkçesi
+TDE2232,Eski Anadolu Türkçesi 15. Yüzyıl
+TDE2242,Eski Türk Edebiyatı 15. Yüzyıl
+TDE2252,Osmanlı Türkçesi 2
+TDE2262,Servet-i Fünun Edebiyatında Roman Ve Hikaye
+TDE2302,Batı Edebiyatı
+TDE2306,Çağdaş Türk Dilleri Coğrafyası
+TDE2312,Tarih Boyunca Türklerin Kullandıkları Alfabeler
+TDE3212,Harezm -kıpçak Türkçesi
+TDE3242,Eski Türk Edebiyatı 17. Yüzyıl
+TDE3252,Türk Halk Şiiri
+TDE3262,2. Meşrutiyet Sonrası Türk Edebiyatı
+TDE3272,Genel Dilbilim Sentaks-semantik
+TDE3308,Azerbaycan Dili Ve Edebiyatı
+TDE3322,Bilimsel Araştırma Ve Yöntemleri
+TDE3382,Dini Tasavvufi Türk Edebiyatı
+TDE4222,Yeni Türk Yazı Dilleri
+TDE4242,Eski Türk Edebiyatı 19. Yüzyıl
+TDE4262,Cumhuriyet Dönemi Türk Romanı
+TDE4306,Dil Semineri Dilde Sadeleşme
+TDE4318,Eleştirel Okuma
+TDE4372,Klasik Türk Edebiyatında Mazmunlar

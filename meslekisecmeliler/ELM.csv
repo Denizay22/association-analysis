@@ -1,0 +1,115 @@
+ELM2080,,C Programlama Diline Giriş ve Mühendislikte Uygulamaları,3,0,0,3,4
+ELM2010,,Elektrik Makinalarının Temelleri,3,0,0,3,4
+ELM2020,,Malzeme,3,0,0,3,4
+ELM2030,,Haberleşme,3,0,0,0,4
+ELM2040,,Metroloji,3,0,0,3,4
+ELM2050,,Elektromekanik Enerji Dönüşümü,3,0,0,3,4
+ELM2060,,Termodinamik ve Hidrodinamik Temelleri,3,0,0,3,4
+ELM2070,,Statik ve Mukavemet,3,0,0,3,4
+ELM3292,,Raylı Sistem Mühendisliğine Giriş,3,0,0,3,4
+ELM3252,,Bileşik Isı ve Güç Sistemleri,3,0,0,3,4
+ELM3262,,Numerik Analiz,3,0,0,3,4
+ELM3272,,İşaretler ve Sistemler,3,0,0,3,4
+ENF1210,,Programlama Dilleri,2,0,2,3,4
+ELM4035,,Raylı Sistemlerde Cer Gücü Elektrifikasyonu,3,0,0,3,6
+ELM4045,,Güç Sistemlerinin Optimizasyonu,3,0,0,3,6
+ELM4055,,Güç Elektroniğinde Özel Konular,3,0,0,3,6
+MTM2602,,Yapay Zekaya Giriş,3,0,0,3,6
+ELM4010,,Akıllı Şebekelere Giriş,3,0,0,3,6
+ELM4020,,Esnek AC İletim Sistemlerine Giriş,3,0,0,3,6
+ELM4030,,Elektrikli Taşıtlar,3,0,0,3,6
+ELM4040,,Alternatif Enerjiler ve Modellenmesi,3,0,0,3,6
+ELM4050,,Reaktif Güç Kompanzasyonu,3,0,0,3,6
+ELM4060,,Yenilenebilir Enerji Sistemleri İçin Güç Elektroniği,3,0,0,3,6
+ELM4070,aa,Mikroişlemci Tabanlı Sistem Tasarımı,3,0,0,3,6
+ELM4080,,Akıllı Ev ve Enerji Yönetimi,3,0,0,3,6
+ELM4090,aa,Bilgisayar Destekli Elektrik Makine Tasarımı,3,0,0,3,6
+ELM4401,,Yüksek Akım Laboratuarı,0,0,2,1,2
+ELM4411,,Yenilenebilir Enerji Sistemleri Laboratuvarı,0,0,2,1,2
+ELM4421,,Elektrik Tesisleri Laboratuvarı,0,0,2,1,2
+ELM4431,,Akıllı Şebekeler Laboratuvarı,0,0,2,1,2
+ELM4351,,Güç Kalitesi Laboratuvarı,0,0,2,1,2
+ELM4612,aa,Elektrik Makinaları Laboratuvarı 2,0,0,2,1,2
+ELM4622,aa,Güç Elektroniği Laboratuvarı 2,0,0,2,1,2
+ELM4632,,Programlanabilir Lojik Kontrolcular Lab.,0,0,2,1,2
+ELM4642,aa,Elektrik Makinalarının Kontrolü Laboratuvarı,0,0,2,1,2
+ELM4112,,İşletmede Mesleki Eğitim 1,3,0,0,3,5
+ELM4122,,İşletmede Mesleki Eğitim 2,3,0,0,3,5
+BLM3110,,Bilgisayar Mühendisliğinde Özel Konular,3,0,0,3,5
+BLM3120,,Bilgiye Erişim Ve Arama Motorları,3,0,0,3,5
+BLM3130,,Oyun Geliştirmeye Giriş,3,0,0,3,5
+BLM3580,,Sistem Programlama,3,0,0,3,5
+BLM3620,,Sayısal İşaret İşleme,3,0,0,3,5
+BLM3720,,Bilgisayar Grafiğine Giriş,3,0,0,3,5
+BLM3740,,Yöneylem Araştırması,3,0,0,3,5
+BLM3760,,Uzman Sistemlere Giriş,3,0,0,3,5
+BLM3810,,Biyoenformatiğe Giriş,3,0,0,3,5
+BME3160,,Biyoinformatik,3,0,0,3,5
+BME3210,,Kardiyovasküler Mekanik,3,0,0,3,5
+BME3360,,BiyoMEMS,3,0,0,3,5
+BME3500,,Sinir Mühendisliğine Giriş,3,0,0,3,5
+BME3570,,Biyosensörler,3,0,0,3,5
+BME3600,,Biyomedikal Mühendisliğinde Özel Konular,3,0,0,3,5
+BME4500,,Nükleer Tıbba Giriş,3,0,0,3,5
+BME4600,,Akışkanlar Mekaniği,3,0,0,3,5
+EHM4130,,Telekomünikasyon Devreleri,3,0,0,3,5
+EHM4140,,Elektronik Tasarım Otomasyonu,3,0,0,3,5
+EHM4210,,Algılayıcılar ve Dönüştürücüler,3,0,0,3,5
+EHM4220,,Uydu Haberleşmesi,3,0,0,3,5
+EHM4240,,Sayısal Elektromagnetik,3,0,0,3,5
+EHM4260,,Veri Haberleşmesi,3,0,0,3,5
+EHM4270,,Hücresel Haberleşme Sistemleri 1,3,0,0,3,5
+EHM4280,,Hücresel Haberleşme Sistemleri 2,3,0,0,3,5
+EHM4290,,Kuantik Alan Teorisi,3,0,0,3,5
+EHM4300,,Fiber Optiğe Giriş,3,0,0,3,5
+EHM4310,,Mikrodalga Elektroniği,3,0,0,3,5
+EHM4320,,Optoelektroniğe Giriş,3,0,0,3,5
+EHM4330,,Optik Haberleşme Sistemleri,3,0,0,3,5
+EHM4340,,Analog Tümdevreler,3,0,0,3,5
+EHM4350,,Sayısal Elektronik Devreleri,3,0,0,3,5
+EHM4360,,Endüstriyel Elektronik,3,0,0,3,5
+EHM4380,,Tümdevre Tasarımı,3,0,0,3,5
+EHM4390,,Güç Elektroniği,3,0,0,3,5
+EHM4800,,Yarı iletken Elektroniği,3,0,0,3,5
+EHM4810,,Tıp Elektroniği,3,0,0,3,5
+EHM4830,,Programlanabilir Lojik Devre Tasarımı,3,0,0,3,5
+EHM4850,,Haberleşme Teorisi,3,0,0,3,5
+EHM4860,,Sayısal Haberleşme Sistemlerinin Temelleri,3,0,0,3,5
+EHM4870,,Mikrodalga Sistemlerinin Bilgisayar Destekli Analizi ve Modellenmesi,3,0,0,3,5
+EHM4880,,Elektronik Savunma Sistemlerine Giriş,3,0,0,3,5
+EHM4890,,Sayısal Görüntü İletimi ve Yayıncılığı,3,0,0,3,5
+ELM4301,,Elektrik Makinalarında Arızalar ve Bakım Yöntemleri,3,0,0,3,5
+ELM4302,,Endüstri 4.0 ve Elektrik Mühendisliği Uygulamaları,3,0,0,3,5
+IKT3650,,Sürdürülebilir Kalkınma,3,0,0,3,5
+ELM4281,aa,Güç Elektroniğinin Endüstriyel Uygulamaları,3,0,0,3,5
+ELM4270,,Elektrik Enerjisi Kalitesi,3,0,0,3,5
+ELM4280,,Elektrik Makinalarında Modern Kontrol Yöntemleri,3,0,0,3,5
+ELM4290,,Topraklama,3,0,0,3,5
+ELM4300,,Elektrik Enerjisi Ekonomisi,3,0,0,3,5
+ELM4770,,Kumanda Tekniği,3,0,0,3,5
+ELM4780,,Elektrik Tesislerinde Bilgisayar Destekli Tasarım,3,0,0,3,5
+ELM4790,,Özel Elektrik Makinaları ve Uygulamaları,3,0,0,3,5
+ELM4800,aa,Güç Elektroniği Devrelerinin Tasarımı,3,0,0,3,5
+ELM4810,,Güç Sistemleri Analizi,3,0,0,3,5
+ELM4820,,Enerji İletim Hatları,3,0,0,3,5
+ELM4830,,Servo Motorlar,3,0,0,3,5
+ELM4500,,Elektrik Tesislerinde Koruma Tekniği,3,0,0,3,5
+ELM4840,aa,Bilgisayar Destekli Devre Analizi,3,0,0,3,5
+ELM4850,,Elektrik Tesislerinde Harmonikler,3,0,0,3,5
+ELM4860,aa,Yüksek Gerilim Özel Problemleri,3,0,0,3,5
+ELM4870,,Gaz İzoleli Şalt Tesisleri,3,0,0,3,5
+ELM4880,,Yüksek Gerilim Kesicileri,3,0,0,3,5
+ELM4890,,Yol Aydınlatması,3,0,0,3,5
+ELM4900,,Elektrik Mühendisliğinde Bilgisayar Uygulamaları,3,0,0,3,5
+ELM4910,aa,Aydınlatma ve İç Tesisat Tasarımı,3,0,0,3,5
+ELM4920,aa,Enerji Dağıtım Projesi,3,0,0,3,5
+ELM4930,,Elektrik Şalt Tesisleri,3,0,0,3,5
+ELM4940,,Tesis Organizasyonu,3,0,0,3,5
+ELM4950,,Asenkron Motor Sürücü Sistemleri ve Uygulamaları,3,0,0,3,5
+ELM4960,,Otomatik Kontrol Sistemleri,3,0,0,3,5
+ELM4970,,Programlanabilir Lojik Kontrolcular,3,0,0,3,5
+ELM4961,aa,Simetrik ve Asimetrik Kısa Devre Analizi,3,0,0,3,5
+ELM4990,,Rüzgar Türbinlerinin Tasarımı,3,0,0,3,5
+ELM4100,,Yenilenebilir Enerji Kaynaklarının Tasarımında Fizibilite,3,0,0,3,5
+ELM4980,,Bilgisayar Destekli Elektromanyetik Devre Analizi,3,0,0,3,5
+ELM4202,,Elektrikli Raylı Sistemler,3,0,0,3,5
